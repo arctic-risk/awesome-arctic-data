@@ -16,7 +16,7 @@ Links to various data sources to provide information on Arctic region. Data sour
 - [Shipping](#shipping)
 
 ## Permafrost
-- [GTNP](https://gtnp.arcticportal.org/) - Global Terrestrial Network for Permafrost hosted by Arctic Portal
+- [GTNP](https://gtnp.arcticportal.org/) - Global Terrestrial Network for Permafrost, Active layer depths and borehole temperatures
 
 ## Sea Ice
 - [Arctic Sea Ice minimum](https://climate.nasa.gov/vital-signs/arctic-sea-ice/) - NASA Global climate change vital signs
