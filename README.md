@@ -28,7 +28,7 @@ Links to various data sources to provide information on Arctic region. Data sour
 
 
 ## Sea Level
--[Sea level change](https://climate.nasa.gov/vital-signs/sea-level/) - NASA Global climate change vital signs
+- [Sea level change](https://climate.nasa.gov/vital-signs/sea-level/) - NASA Global climate change vital signs
 
 ## Ice sheets
 - [Ice sheet change](https://climate.nasa.gov/vital-signs/ice-sheets/) - NASA Global climate change vital signs - Greenland and Antartica
