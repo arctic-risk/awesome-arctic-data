@@ -60,8 +60,6 @@ Links to various data sources to provide information on Arctic region. Data sour
 - [NOAA Temperature Anomalies](https://www.ncdc.noaa.gov/monitoring-references/faq/anomalies.php#anomalies) - Temp. anomalies by hemisphere, land and ocean
 - [NASA GISS](https://data.giss.nasa.gov/gistemp/maps/index.html) - NASA Surface temperature analysis - Anomalies and trends
   
-## Shipping
-- [PAME](https://pame.is/index.php/projects/arctic-marine-shipping/astd#astd-access) - PAME Arctic Shipping traffic data - paid acces for non-affiliated organizations
 
 
 
