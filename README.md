@@ -53,7 +53,7 @@ Links to various data sources to provide information on Arctic region. Data sour
 
 ## Disaster Data
 - [Data on Disasters from SwissRe](https://www.sigma-explorer.com/)
-- [EM-DAT public](https://public.emdat.be/) - EM-DAT The international disaster database
+- [EM-DAT public](https://public.emdat.be/) - EM-DAT The international disaster database : Need to create a free account to access the data
 
 ## Temperature
 - [Global surface temperature](https://climate.nasa.gov/vital-signs/global-temperature/) - NASA Global Climate change vital signs
