@@ -56,9 +56,8 @@ Links to various data sources to provide information on Arctic region. Data sour
 - [EM-DAT public](https://public.emdat.be/) - EM-DAT The international disaster database : Need to create a free account to access the data
 
 ## Temperature
-- [Global surface temperature](https://climate.nasa.gov/vital-signs/global-temperature/) - NASA Global Climate change vital signs
-- [NOAA Temperature Anomalies](https://www.ncdc.noaa.gov/monitoring-references/faq/anomalies.php#anomalies) - Temp. anomalies by hemisphere, land and ocean
-- [NASA GISS](https://data.giss.nasa.gov/gistemp/maps/index.html) - NASA Surface temperature analysis - Anomalies and trends
+- [NOAA Temperature Anomalies](https://www.ncdc.noaa.gov/monitoring-references/faq/anomalies.php#anomalies) - Temp. anomalies by hemisphere, land and ocean. 1901-2000 average is reference for anomalies
+- [NASA GISS](https://data.giss.nasa.gov/gistemp/maps/index.html) - NASA Surface temperature analysis - Anomalies and trends. 1951-1980 average is reference for anomalies
   
 
 
