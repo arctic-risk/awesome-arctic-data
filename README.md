@@ -45,7 +45,6 @@ Links to various data sources to provide information on Arctic region. Data sour
 
 ## GHG Emissions
 - [OECD Emissions Dataset](https://www.oecd-ilibrary.org/environment/data/oecd-environment-statistics/greenhouse-gas-emissions_data-00594-en)
-- [Global Carbon project](https://www.globalcarbonproject.org/carbonbudget/20/data.htm) - Global carbon budget and emissions data by year by country
 - [NOAA GML-CH4](https://www.esrl.noaa.gov/gmd/ccgg/trends_ch4/) - Global Monitoring Laboratory - montly Global averages
 - [NOAA GML-N2O](https://www.esrl.noaa.gov/gmd/ccgg/trends_n2o/) - Global Monitoring Laboratory - montly Global averages
 - [NOAA GML-SF6](https://www.esrl.noaa.gov/gmd/ccgg/trends_sf6/) - Global Monitoring Laboratory - monthly Global averages
