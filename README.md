@@ -32,7 +32,7 @@ Links to various data sources to provide information on Arctic region. Data sour
 
 ## Ice sheets
 - [Ice sheet change](https://climate.nasa.gov/vital-signs/ice-sheets/) - NASA Global climate change vital signs - Greenland and Antartica
-- [Copernicus Ice sheet change](https://cds.climate.copernicus.eu/cdsapp#!/dataset/satellite-ice-sheet-elevation-change?tab=overview) - For Greenland and Antartica
+
 
 ## CO2
 - [Atmospheric and Ice record merged CO2 data from the year 13 to present](https://scrippsco2.ucsd.edu/data/atmospheric_co2/icecore_merged_products.html)
