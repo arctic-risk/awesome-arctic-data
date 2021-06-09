@@ -32,7 +32,6 @@ Links to various data sources to provide information on Arctic region. Data sour
 - [The Mauna Loa, Hawaii, CO2 record from 1958 to present, often referred to as the Keeling Curve](https://scrippsco2.ucsd.edu/data/atmospheric_co2/primary_mlo_co2_record.html)
 - [CO2 emissions in trade](https://stats.oecd.org/Index.aspx?QueryId=105666) - OECD Carbon dioxide emissions embodied in international trade
 - [Global CO2 levels](https://climate.nasa.gov/vital-signs/carbon-dioxide/) - NASA Global Climate change vital signs
-- [Our world in data](https://ourworldindata.org/co2-emissions) - CO2 emissions by region, by country, per capita, embedded in trade
 - [NOAA GML-CO2](https://www.esrl.noaa.gov/gmd/ccgg/trends/global.html) - Global Monitoring Laboratory - monthly mean CO2, Global, Mauna Loa
 
 ## GHG Emissions
