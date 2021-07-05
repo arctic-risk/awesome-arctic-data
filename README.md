@@ -70,7 +70,13 @@ Links to various data sources to provide information on Arctic region. Data sour
 
 ## Phenology/Plant blooming datasets
 - [Kypto Cherry blossoms](http://atmenv.envi.osakafu-u.ac.jp/aono/kyophenotemp4/) - Cheery Tree blossoming dates data in Kyoto city. Note the data is actually on the page, the download links contain outdated files
-- [France phenology](https://data.pheno.fr/) allows you to search for e.g. wine blossom dates across multiple years and regions
+- [France wine blossom](https://data.pheno.fr/) allows you to search for e.g. wine blossom dates across multiple years and regions
+- [Germany wine blossom](https://opendata.dwd.de/climate_environment/CDC/observations_germany/phenology/annual_reporters/vine/historical/) wine blossom dates across multiple years and regions
+
+## Reference Data
+- [United Nations World Population Prospects](https://population.un.org/wpp/Download/Standard/Population/) has population data and forecasts. Also a good source for regions, region names, and countriy naming
+- [WorldPop](https://www.worldpop.org/project/categories?id=3) has various datasets relating to population, mapped to geospatial grids
+
 
 
 This list curated and provided by [Arctic Basecamp](https://arcticbasecamp.org) based on work on the [Arctic Risk](https://arcticrisk.org) Platform.
