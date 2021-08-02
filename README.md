@@ -32,6 +32,9 @@ Links to various data sources to provide information on Arctic region. Data sour
 - [QGreenland](https://qgreenland.org/) a free GIS package for Greenland, useful e.g. to identify weather station locations, or get familiar with basic phenomena such as ice melt, ice sheet thickness
 - [Automated weather stations](https://promice.org/PromiceDataPortal/api/download/f24019f7-d586-4465-8181-d4965421e6eb), data across Greenland, such as temperatures, or, from a sonic ranger, using `height_stakes` or `HeightStakes(m)`, data on ice melt
 - [Promice.org](https://www.promice.org/PromiceDataPortal/) is a well maintained source of data around Greenland, ice sheets, water runoff
+- [Danmarks Meteorologiske Institut Greenland Meteorological Observations](https://confluence.govcloud.dk/display/FDAPI/Getting+Started+with+DMI+data), a fantastic API to
+  access met, ocean, and climate data from Greenland for multiple decades. Bulk download (> 200 GB when uncompressed) and live RESTful API, registration required but free
+  of charge.
 
 ## Canada
 
