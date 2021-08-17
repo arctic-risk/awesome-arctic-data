@@ -65,11 +65,13 @@ Links to various data sources to provide information on Arctic region. Data sour
 
 * [World bank climate data](https://climateknowledgeportal.worldbank.org/download-data) - World bank climate data (Temperature and precipitation) by country
 
-- [NOAA Temperature Anomalies](https://www.ncdc.noaa.gov/monitoring-references/faq/anomalies.php#anomalies) - Temp. anomalies by hemisphere, land and ocean. 1901-2000 average is reference for anomalies
+- [NOAA Temperature Anomalies](https://www.ncdc.noaa.gov/monitoring-references/faq/anomalies.php#anomalies) - Temperature anomalies by hemisphere, land and ocean. 1901-2000 average is reference for anomalies
 - [NASA GISS](https://data.giss.nasa.gov/gistemp/maps/index.html) - NASA Surface temperature analysis - Anomalies and trends. 1951-1980 average is reference for anomalies
 - [Berkeley Earth](http://berkeleyearth.org/data/) - Temperature data for up to centuries and, if desired, high spatial resolution
 - [National Centre for Atmospheric Science/Earth Observation weather and climate data](https://archive.ceda.ac.uk/)
 - [German Met Office (Deutscher Wetterdienst) Open Data](https://opendata.dwd.de/) has multiple indicators and data for Germany
+- The [International Arctic Buoy Programme](https://iabp.apl.uw.edu/data.html) provides access to historic and real time measurements from buoys deployed in the arcitc
+- The [British Antarctic Survey](https://www.bas.ac.uk/data/our-data/data-systems/) also operates buoys in the Arctic and [makes their data incl. video feeds](http://frazil.nerc-bas.ac.uk/soda/#) available.
 
 ## Phenology/Plant blooming datasets
 - [Kypto Cherry blossoms](http://atmenv.envi.osakafu-u.ac.jp/aono/kyophenotemp4/) - Cheery Tree blossoming dates data in Kyoto city. Note the data is actually on the page, the download links contain outdated files
