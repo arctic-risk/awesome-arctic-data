@@ -8,7 +8,6 @@
  "Iran, Islamic Republic of": "Iran",
  "Iran, Islamic Rep.": "Iran",
  "Moldova, Republic of": "Moldova",
- "North Macedonia": "Macedonia",
  "Russian Federation": "Russia",
  "Syrian Arab Republic": "Syria",
  "Tanzania, United Rep. of": "Tanzania",
@@ -31,7 +30,9 @@
  "Bahamas, The": "Bahamas",
  "Congo, Rep.": "Congo",
  "Cote d'Ivoire": "Ivory Coast",
- "Eswatini": "Swaziland",
- "Slovak Republic": "Slovakia"
+ "Côte d’Ivoire": "Ivory Coast",
+ "Swaziland": "Eswatini",
+ "Slovak Republic": "Slovakia",
+ "Puerto Rico (USA)": "Puerto Rico"
 }
 
