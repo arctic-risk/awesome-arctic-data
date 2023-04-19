@@ -13,7 +13,7 @@
             "properties": {
                 "ID": 1,
                 "Acronym": "AusMCM",
-                "name": "India"
+                "name": "Australia"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -4314,7 +4314,7 @@
             "properties": {
                 "ID": 2,
                 "Acronym": "EAsiaM",
-                "name": "China"
+                "name": "East Asia"
             },
             "geometry": {
                 "type": "MultiPolygon",

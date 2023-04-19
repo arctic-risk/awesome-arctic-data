@@ -2673,7 +2673,7 @@
                 ]
             },
             "properties": {
-                "Name": "Antarctica",
+                "name": "Antarctica",
                 "id": 0,
                 "Acronym": "ANT",
                 "area": 12337771.340736171,
@@ -6058,7 +6058,7 @@
                 ]
             },
             "properties": {
-                "Name": "Europe",
+                "name": "Europe",
                 "id": 1,
                 "Acronym": "EUR",
                 "area": 13010143.05871774,
@@ -7491,7 +7491,7 @@
                 ]
             },
             "properties": {
-                "Name": "Small Islands",
+                "name": "Small Islands",
                 "id": 2,
                 "Acronym": "SMA",
                 "area": 945466.2393655702,
@@ -8926,7 +8926,7 @@
                 ]
             },
             "properties": {
-                "Name": "Africa",
+                "name": "Africa",
                 "id": 3,
                 "Acronym": "AFR",
                 "area": 29355793.90802543,
@@ -10651,7 +10651,7 @@
                 ]
             },
             "properties": {
-                "Name": "Central and South America",
+                "name": "Central and South America",
                 "id": 4,
                 "Acronym": "CEN",
                 "area": 18355648.926724855,
@@ -11932,7 +11932,7 @@
                 ]
             },
             "properties": {
-                "Name": "Australasia",
+                "name": "Australasia",
                 "id": 5,
                 "Acronym": "AUS",
                 "area": 7964998.781621625,
@@ -17557,7 +17557,7 @@
                 ]
             },
             "properties": {
-                "Name": "Asia",
+                "name": "Asia",
                 "id": 6,
                 "Acronym": "ASI",
                 "area": 43893493.21074075,
@@ -22246,7 +22246,7 @@
                 ]
             },
             "properties": {
-                "Name": "North America",
+                "name": "North America",
                 "id": 7,
                 "Acronym": "NOR",
                 "area": 21495300.147879165,
