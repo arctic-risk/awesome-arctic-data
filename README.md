@@ -10,9 +10,11 @@ Links to various data sources to provide information on Arctic region. Data sour
 - [Greenland](#greenland)
 - [Canada](#canada)
 - [CO2](#co2)
-- [GHG Emissions](#ghg-emissions)
+- [Greenhouse Gases (GHG) Emissions](#greenhouse-gases-ghg-emissions)
 - [Disaster Data](#disaster-data)
-- [Temperature (and/or precipitation)](#temperature)
+- [Temperature (and/or precipitation)](#temperature-andor-precipitation)
+- [Phenology/Plant blooming datasets](#phenologyplant-blooming-datasets)
+- [Reference Data](#reference-data)
 
 ## Permafrost
 - [GTNP](https://gtnp.arcticportal.org/) - Global Terrestrial Network for Permafrost, Active layer depths and borehole temperatures
@@ -81,6 +83,7 @@ Links to various data sources to provide information on Arctic region. Data sour
 ## Reference Data
 - [United Nations World Population Prospects](https://population.un.org/wpp/Download/Standard/Population/) has population data and forecasts. Also a good source for regions, region names, and countriy naming
 - [WorldPop](https://www.worldpop.org/project/categories?id=3) has various datasets relating to population, mapped to geospatial grids
+- [Country aliases](https://en.wikipedia.org/wiki/List_of_alternative_country_names)
 
 
 

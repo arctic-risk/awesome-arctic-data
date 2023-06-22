@@ -1,0 +1,3698 @@
+{
+    "Abkhazia": {
+        "alpha_3": "null",
+        "description": "common, English"
+    },
+    "Republic of Abkhazia": {
+        "alpha_3": "null",
+        "description": "official, English"
+    },
+    "Aphsny Axwynthkharra": {
+        "alpha_3": "null",
+        "description": "official, Abkhaz"
+    },
+    "Respublika Abkhaziya": {
+        "alpha_3": "null",
+        "description": "official, Russian"
+    },
+    "Autonomous Republic of Abkhazia": {
+        "alpha_3": "null",
+        "description": "Internationally recognized, English"
+    },
+    "Afghanistan": {
+        "alpha_3": "AFG",
+        "description": "common, English"
+    },
+    "Afganistan": {
+        "alpha_3": "AFG",
+        "description": "alternative name in English"
+    },
+    "Islamic Republic of Afghanistan": {
+        "alpha_3": "AFG",
+        "description": "official, English"
+    },
+    "Da Afganistan Islami Jumhoryat": {
+        "alpha_3": "AFG",
+        "description": "official, Pashto"
+    },
+    "Jomhuriyyeh Eslamiyyeh Afganestan": {
+        "alpha_3": "AFG",
+        "description": "official, Dari"
+    },
+    "Albania": {
+        "alpha_3": "ALB",
+        "description": "common, English"
+    },
+    "Republic of Albania": {
+        "alpha_3": "ALB",
+        "description": "official, English"
+    },
+    "Republika e Shqipërisë": {
+        "alpha_3": "ALB",
+        "description": "official, Albanian"
+    },
+    "Arnavutluk": {
+        "alpha_3": "ALB",
+        "description": "Turkish"
+    },
+    "Arbanon": {
+        "alpha_3": "ALB",
+        "description": "former, English"
+    },
+    "Algeria": {
+        "alpha_3": "DZA",
+        "description": "common, English"
+    },
+    "People's Democratic Republic of Algeria": {
+        "alpha_3": "DZA",
+        "description": "official, English"
+    },
+    "al-Jaza’ir": {
+        "alpha_3": "DZA",
+        "description": "common, Arabic"
+    },
+    "al Jumhuriyya al Jazaa'iriyya ad-Dimuqratiyya ash Sha'biyya": {
+        "alpha_3": "DZA",
+        "description": "official, Arabic"
+    },
+    "Andorra": {
+        "alpha_3": "AND",
+        "description": "common, English"
+    },
+    "Principality of Andorra": {
+        "alpha_3": "AND",
+        "description": "official, English"
+    },
+    "Principat d'Andorra": {
+        "alpha_3": "AND",
+        "description": "official, Catalan"
+    },
+    "Principality of the Valleys of Andorra": {
+        "alpha_3": "AND",
+        "description": "alternate, English"
+    },
+    "Argentina": {
+        "alpha_3": "ARG",
+        "description": "common, English"
+    },
+    "Argentine Republic": {
+        "alpha_3": "ARG",
+        "description": "official, English"
+    },
+    "la Argentina": {
+        "alpha_3": "ARG",
+        "description": "colloquial, Spanish"
+    },
+    "the Argentine": {
+        "alpha_3": "ARG",
+        "description": "archaic, English"
+    },
+    "Argentine Nation": {
+        "alpha_3": "ARG",
+        "description": "official and legally preferred, English"
+    },
+    "United Provinces of the Río de la Plata": {
+        "alpha_3": "ARG",
+        "description": "official, English"
+    },
+    "Argentine Confederation": {
+        "alpha_3": "ARG",
+        "description": "official, English"
+    },
+    "Armenia": {
+        "alpha_3": "ARM",
+        "description": "common, English"
+    },
+    "Hayastan": {
+        "alpha_3": "ARM",
+        "description": "transliterated Armenian"
+    },
+    "Republic of Armenia": {
+        "alpha_3": "ARM",
+        "description": "official, English"
+    },
+    "Artsakh": {
+        "alpha_3": "null",
+        "description": "common, English"
+    },
+    "Republic of Artsakh": {
+        "alpha_3": "null",
+        "description": "official, English"
+    },
+    "Artsakhi Hanrapetut’yun": {
+        "alpha_3": "null",
+        "description": "official, Armenian"
+    },
+    "Nagorno-Karabakh Republic": {
+        "alpha_3": "null",
+        "description": "former official, English"
+    },
+    "Artsakh Republic of Mountainous Karabakh": {
+        "alpha_3": "null",
+        "description": "in official use, English"
+    },
+    "Australia": {
+        "alpha_3": "AUS",
+        "description": "common, English"
+    },
+    "Commonwealth of Australia": {
+        "alpha_3": "AUS",
+        "description": "official, English"
+    },
+    "New Holland": {
+        "alpha_3": "AUS",
+        "description": "former name, English"
+    },
+    "Austria": {
+        "alpha_3": "AUT",
+        "description": "common, English"
+    },
+    "Republic of Austria": {
+        "alpha_3": "AUT",
+        "description": "official, English"
+    },
+    "Republik Österreich": {
+        "alpha_3": "AUT",
+        "description": "official, German"
+    },
+    "Österreich": {
+        "alpha_3": "AUT",
+        "description": "common, German"
+    },
+    "Azerbaijan": {
+        "alpha_3": "AZE",
+        "description": "common, English"
+    },
+    "Az?ebaycan Respublikasi": {
+        "alpha_3": "AZE",
+        "description": "official, Azerbaijani"
+    },
+    "Republic of Azerbaijan": {
+        "alpha_3": "AZE",
+        "description": "official, English"
+    },
+    "The Bahamas": {
+        "alpha_3": "BHS",
+        "description": "common, English"
+    },
+    "Commonwealth of The Bahamas": {
+        "alpha_3": "BHS",
+        "description": "official, English"
+    },
+    "Commonwealth of the Bahama Islands": {
+        "alpha_3": "BHS",
+        "description": "former official, English"
+    },
+    "Bahama Islands": {
+        "alpha_3": "BHS",
+        "description": "colonial name, English"
+    },
+    "Bahrain": {
+        "alpha_3": "BHR",
+        "description": "common, English"
+    },
+    "Kingdom of Bahrain": {
+        "alpha_3": "BHR",
+        "description": "official, English"
+    },
+    "Mamlakat al-Bahrayn": {
+        "alpha_3": "BHR",
+        "description": "official, Arabic"
+    },
+    "State of Bahrain": {
+        "alpha_3": "BHR",
+        "description": "former official, English"
+    },
+    "Bangladesh": {
+        "alpha_3": "BGD",
+        "description": "common, English"
+    },
+    "People's Republic of Bangladesh": {
+        "alpha_3": "BGD",
+        "description": "long official name in English"
+    },
+    "Bengal Presidency": {
+        "alpha_3": "BGD",
+        "description": "former political name"
+    },
+    "East Bengal": {
+        "alpha_3": "BGD",
+        "description": "former political name"
+    },
+    "East Pakistan": {
+        "alpha_3": "BGD",
+        "description": "former political name"
+    },
+    "Barbados": {
+        "alpha_3": "BRB",
+        "description": "official, English"
+    },
+    "Bim": {
+        "alpha_3": "BRB",
+        "description": "nickname"
+    },
+    "Bimshire": {
+        "alpha_3": "BRB",
+        "description": "nickname"
+    },
+    "Little England": {
+        "alpha_3": "BRB",
+        "description": "nickname"
+    },
+    "The Rock": {
+        "alpha_3": "BRB",
+        "description": "nickname"
+    },
+    "Belarus": {
+        "alpha_3": "BLR",
+        "description": "common, English"
+    },
+    "Republic of Belarus": {
+        "alpha_3": "BLR",
+        "description": "official, English"
+    },
+    "Gudija": {
+        "alpha_3": "BLR",
+        "description": "Lithuanian"
+    },
+    "Byelorussia": {
+        "alpha_3": "BLR",
+        "description": "former name"
+    },
+    "White Russia": {
+        "alpha_3": "BLR",
+        "description": "outdated"
+    },
+    "Belgium": {
+        "alpha_3": "BEL",
+        "description": "common, English"
+    },
+    "Kingdom of Belgium": {
+        "alpha_3": "BEL",
+        "description": "official, English"
+    },
+    "Koninkrijk België": {
+        "alpha_3": "BEL",
+        "description": "official, Dutch"
+    },
+    "Royaume de Belgique": {
+        "alpha_3": "BEL",
+        "description": "official, French"
+    },
+    "Königreich Belgien": {
+        "alpha_3": "BEL",
+        "description": "official, German"
+    },
+    "Belize": {
+        "alpha_3": "BLZ",
+        "description": "common, English"
+    },
+    "British Honduras": {
+        "alpha_3": "BLZ",
+        "description": "former, English"
+    },
+    "Benin": {
+        "alpha_3": "BEN",
+        "description": "common, English"
+    },
+    "Dahomey": {
+        "alpha_3": "BEN",
+        "description": "former name"
+    },
+    "Republic of Benin": {
+        "alpha_3": "BEN",
+        "description": "official, English"
+    },
+    "République du Bénin": {
+        "alpha_3": "BEN",
+        "description": "official, French"
+    },
+    "Bhutan": {
+        "alpha_3": "BTN",
+        "description": "common, English"
+    },
+    "Kingdom of Bhutan": {
+        "alpha_3": "BTN",
+        "description": "official, English"
+    },
+    "Druk Gyal Khap": {
+        "alpha_3": "BTN",
+        "description": "official, Dzongkha"
+    },
+    "Bolivia": {
+        "alpha_3": "BOL",
+        "description": "common, English"
+    },
+    "Plurinational State of Bolivia": {
+        "alpha_3": "BOL",
+        "description": "official, English"
+    },
+    "Estado Plurinacional de Bolivia": {
+        "alpha_3": "BOL",
+        "description": "official, Spanish"
+    },
+    "Republic of Bolívar": {
+        "alpha_3": "BOL",
+        "description": "former official, English"
+    },
+    "Republic of Bolivia": {
+        "alpha_3": "BOL",
+        "description": "former official, English"
+    },
+    "Bosnia and Herzegovina": {
+        "alpha_3": "BIH",
+        "description": "official, English"
+    },
+    "Republic of Bosnia and Herzegovina": {
+        "alpha_3": "BIH",
+        "description": "former official, English"
+    },
+    "Socialist Republic of Bosnia and Herzegovina": {
+        "alpha_3": "BIH",
+        "description": "former official, English"
+    },
+    "Botswana": {
+        "alpha_3": "BWA",
+        "description": "common, English"
+    },
+    "Bechuanaland": {
+        "alpha_3": "BWA",
+        "description": "former, English"
+    },
+    "Republic of Botswana": {
+        "alpha_3": "BWA",
+        "description": "official, English"
+    },
+    "Brazil": {
+        "alpha_3": "BRA",
+        "description": "common, English"
+    },
+    "Pindorama": {
+        "alpha_3": "BRA",
+        "description": "in Tupi and Guarani, native languages"
+    },
+    "Terra de Santa Cruz": {
+        "alpha_3": "BRA",
+        "description": "early Portuguese colonization"
+    },
+    "Ilha de Vera Cruz": {
+        "alpha_3": "BRA",
+        "description": "former, Portuguese"
+    },
+    "Empire of Brazil": {
+        "alpha_3": "BRA",
+        "description": "former, English"
+    },
+    "United States of Brazil": {
+        "alpha_3": "BRA",
+        "description": "former, English"
+    },
+    "Federative Republic of Brazil": {
+        "alpha_3": "BRA",
+        "description": "official, English"
+    },
+    "República Federativa do Brasil": {
+        "alpha_3": "BRA",
+        "description": "official, Portuguese"
+    },
+    "Terra di Papaga": {
+        "alpha_3": "BRA",
+        "description": "former, Italian"
+    },
+    "Brunei": {
+        "alpha_3": "BRN",
+        "description": "common, English"
+    },
+    "Nation of Brunei, the Abode of Peace": {
+        "alpha_3": "BRN",
+        "description": "official name, English"
+    },
+    "State of Brunei": {
+        "alpha_3": "BRN",
+        "description": "colonial name, English"
+    },
+    "Negara Brunei Darussalam": {
+        "alpha_3": "BRN",
+        "description": "Malay"
+    },
+    "Brunei Darussalam": {
+        "alpha_3": "BRN",
+        "description": "alternative"
+    },
+    "Bulgaria": {
+        "alpha_3": "BGR",
+        "description": "common, English"
+    },
+    "Republic of Bulgaria": {
+        "alpha_3": "BGR",
+        "description": "official, English"
+    },
+    "People's Republic of Bulgaria": {
+        "alpha_3": "BGR",
+        "description": "former official, English"
+    },
+    "Burkina Faso": {
+        "alpha_3": "BFA",
+        "description": "official, English and French"
+    },
+    "Upper Volta": {
+        "alpha_3": "BFA",
+        "description": "former name, English"
+    },
+    "Haute-Volta": {
+        "alpha_3": "BFA",
+        "description": "former name, French"
+    },
+    "Bourkina-Fasso": {
+        "alpha_3": "BFA",
+        "description": "unofficial French"
+    },
+    "Burundi": {
+        "alpha_3": "BDI",
+        "description": "common, English"
+    },
+    "Republic of Burundi": {
+        "alpha_3": "BDI",
+        "description": "official, English"
+    },
+    "Republika y'Uburundi": {
+        "alpha_3": "BDI",
+        "description": "official, Kirundi"
+    },
+    "République du Burundi": {
+        "alpha_3": "BDI",
+        "description": "official, French"
+    },
+    "Kingdom of Burundi": {
+        "alpha_3": "BDI",
+        "description": "former official, English"
+    },
+    "Cambodia": {
+        "alpha_3": "KHM",
+        "description": "common, English"
+    },
+    "Kingdom of Cambodia": {
+        "alpha_3": "KHM",
+        "description": "official, English"
+    },
+    "Royaume du Cambodge": {
+        "alpha_3": "KHM",
+        "description": "official, French"
+    },
+    "Kampuchea": {
+        "alpha_3": "KHM",
+        "description": "former official English transliteration"
+    },
+    "Khmer Republic": {
+        "alpha_3": "KHM",
+        "description": "former official"
+    },
+    "Democratic Kampuchea": {
+        "alpha_3": "KHM",
+        "description": "former official"
+    },
+    "People's Republic of Kampuchea": {
+        "alpha_3": "KHM",
+        "description": "former official"
+    },
+    "State of Cambodia": {
+        "alpha_3": "KHM",
+        "description": "former official"
+    },
+    "Cameroon": {
+        "alpha_3": "CMR",
+        "description": "common, English"
+    },
+    "Republic of Cameroon": {
+        "alpha_3": "CMR",
+        "description": "official, English"
+    },
+    "United Republic of Cameroon": {
+        "alpha_3": "CMR",
+        "description": "former official, English"
+    },
+    "Kamerun": {
+        "alpha_3": "CMR",
+        "description": "former colonial, German"
+    },
+    "Canada": {
+        "alpha_3": "CAN",
+        "description": "official, English and French"
+    },
+    "Dominion of Canada": {
+        "alpha_3": "CAN",
+        "description": "historical long form, English"
+    },
+    "Dominion du Canada": {
+        "alpha_3": "CAN",
+        "description": "historical long form, French"
+    },
+    "Acadia": {
+        "alpha_3": "CAN",
+        "description": "French colony"
+    },
+    "Francisca": {
+        "alpha_3": "CAN",
+        "description": "as labeled on an old map"
+    },
+    "Cape Verde": {
+        "alpha_3": "CPV",
+        "description": "common, English"
+    },
+    "Cabo Verde": {
+        "alpha_3": "CPV",
+        "description": "official, Portuguese and English"
+    },
+    "Central African Republic": {
+        "alpha_3": "CAF",
+        "description": "official, English"
+    },
+    "Oubangui-Chari": {
+        "alpha_3": "CAF",
+        "description": "former, French"
+    },
+    "Ubangi-Shari": {
+        "alpha_3": "CAF",
+        "description": "English"
+    },
+    "République Centrafricaine": {
+        "alpha_3": "CAF",
+        "description": "official, French"
+    },
+    "Empire Centrafricain": {
+        "alpha_3": "CAF",
+        "description": "former official, French"
+    },
+    "Central African Empire": {
+        "alpha_3": "CAF",
+        "description": "English"
+    },
+    "Chad": {
+        "alpha_3": "TCD",
+        "description": "official, English"
+    },
+    "Republic of Chad": {
+        "alpha_3": "TCD",
+        "description": "official, English"
+    },
+    "République du Tchad": {
+        "alpha_3": "TCD",
+        "description": "official, French"
+    },
+    "Jumhuriyat Tashad": {
+        "alpha_3": "TCD",
+        "description": "official, Arabic"
+    },
+    "Chile": {
+        "alpha_3": "CHL",
+        "description": "common, English"
+    },
+    "Republic of Chile": {
+        "alpha_3": "CHL",
+        "description": "official, English"
+    },
+    "Chilli": {
+        "alpha_3": "CHL",
+        "description": "Mapuche"
+    },
+    "Chili": {
+        "alpha_3": "CHL",
+        "description": "Quechua"
+    },
+    "Reyno de Chile": {
+        "alpha_3": "CHL",
+        "description": "colonial Spanish"
+    },
+    "Capitania general de Chile": {
+        "alpha_3": "CHL",
+        "description": "colonial Spanish"
+    },
+    "China": {
+        "alpha_3": "CHN",
+        "description": "common, English"
+    },
+    "People's Republic of China": {
+        "alpha_3": "CHN",
+        "description": "official"
+    },
+    "Communist China": {
+        "alpha_3": "CHN",
+        "description": "colloquial, mainly used by Western countries"
+    },
+    "Red China": {
+        "alpha_3": "CHN",
+        "description": "colloquial, mainly derogatory"
+    },
+    "Mainland China": {
+        "alpha_3": "CHN",
+        "description": "colloquial, refers to the area that the PRC Government administers since the end of the Chinese Civil War"
+    },
+    "New China": {
+        "alpha_3": "CHN",
+        "description": "colloquial, pro-Communist"
+    },
+    "Shenzhou, Ch'in Empire, Cathay": {
+        "alpha_3": "CHN",
+        "description": "obsolete, now mainly used poetically"
+    },
+    "Zhongguo": {
+        "alpha_3": "TWN",
+        "description": "alternative, Chinese"
+    },
+    "Colombia": {
+        "alpha_3": "COL",
+        "description": "common, English"
+    },
+    "Republic of Colombia": {
+        "alpha_3": "COL",
+        "description": "official, English"
+    },
+    "República de Colombia": {
+        "alpha_3": "COL",
+        "description": "official, Spanish"
+    },
+    "Estados Unidos de Colombia": {
+        "alpha_3": "COL",
+        "description": "former official, Spanish"
+    },
+    "Confederación Granadina": {
+        "alpha_3": "COL",
+        "description": "former official, Spanish"
+    },
+    "República de la Nueva Granada": {
+        "alpha_3": "COL",
+        "description": "former official, Spanish"
+    },
+    "Comoros": {
+        "alpha_3": "COM",
+        "description": "common, English"
+    },
+    "Union of the Comoros": {
+        "alpha_3": "COM",
+        "description": "official, English"
+    },
+    "Union des Comores": {
+        "alpha_3": "COM",
+        "description": "official, French"
+    },
+    "Udzima wa Komori": {
+        "alpha_3": "COM",
+        "description": "official, Swahili"
+    },
+    "al-Ittihad al-Qumuri": {
+        "alpha_3": "COM",
+        "description": "official, Arabic"
+    },
+    "United Republic of the Commoros": {
+        "alpha_3": "COM",
+        "description": "official, English"
+    },
+    "Costa Rica": {
+        "alpha_3": "CRI",
+        "description": "common, English"
+    },
+    "Republic of Costa Rica": {
+        "alpha_3": "CRI",
+        "description": "official, English"
+    },
+    "República de Costa Rica": {
+        "alpha_3": "CRI",
+        "description": "official, Spanish"
+    },
+    "Côte d'Ivoire": {
+        "alpha_3": "CIV",
+        "description": "common, French and English"
+    },
+    "Ivory Coast": {
+        "alpha_3": "CIV",
+        "description": "common, English"
+    },
+    "the Ivory Coast": {
+        "alpha_3": "CIV",
+        "description": "common English"
+    },
+    "Republic of Côte d'Ivoire": {
+        "alpha_3": "CIV",
+        "description": "official English"
+    },
+    "République de Côte d'Ivoire": {
+        "alpha_3": "CIV",
+        "description": "official, French"
+    },
+    "Croatia": {
+        "alpha_3": "HRV",
+        "description": "common, English"
+    },
+    "Republic of Croatia": {
+        "alpha_3": "HRV",
+        "description": "official, English"
+    },
+    "Republika Hrvatska": {
+        "alpha_3": "HRV",
+        "description": "official, Croatian"
+    },
+    "Hrvatska": {
+        "alpha_3": "HRV",
+        "description": "common, Croatian; also in Serbian, Bosnian and Montenegrin"
+    },
+    "Hrvaška": {
+        "alpha_3": "HRV",
+        "description": "Slovenian"
+    },
+    "Cuba": {
+        "alpha_3": "CUB",
+        "description": "common, English"
+    },
+    "Republic of Cuba": {
+        "alpha_3": "CUB",
+        "description": "official, English"
+    },
+    "República de Cuba": {
+        "alpha_3": "CUB",
+        "description": "official, Spanish"
+    },
+    "Czech Republic": {
+        "alpha_3": "CZE",
+        "description": "alternative"
+    },
+    "Czechia": {
+        "alpha_3": "CZE",
+        "description": "official shortform name, English"
+    },
+    "Ceská republika": {
+        "alpha_3": "CZE",
+        "description": "official, Czech, Slovak"
+    },
+    "Cesko": {
+        "alpha_3": "CZE",
+        "description": "common, Czech, Slovak"
+    },
+    "CR": {
+        "alpha_3": "CZE",
+        "description": "English initialism"
+    },
+    "Bohemia": {
+        "alpha_3": "CZE",
+        "description": "former, English"
+    },
+    "Czechland": {
+        "alpha_3": "CZE",
+        "description": "unofficial, English"
+    },
+    "the Czechlands": {
+        "alpha_3": "CZE",
+        "description": "unofficial, English"
+    },
+    "Ceské zeme": {
+        "alpha_3": "CZE",
+        "description": "Czech for Bohemian lands or Czech lands"
+    },
+    "Former Ceská socialistická republika": {
+        "alpha_3": "CZE",
+        "description": "Czech for the Czech Socialist Republic"
+    },
+    "CSR": {
+        "alpha_3": "CZE",
+        "description": "English initialism Protektorát"
+    },
+    "Cechy a Morava": {
+        "alpha_3": "CZE",
+        "description": "Czech for the Protectorate of Bohemia and Moravia"
+    },
+    "Zeme Koruny ceské": {
+        "alpha_3": "CZE",
+        "description": "Czech for the Lands of the Bohemian Crown"
+    },
+    "Koruna ceská": {
+        "alpha_3": "CZE",
+        "description": "Czech for the Bohemian Crown"
+    },
+    "Ceská konfederace": {
+        "alpha_3": "CZE",
+        "description": "Czech for the Bohemian Confederation"
+    },
+    "Denmark": {
+        "alpha_3": "DNK",
+        "description": "common, English"
+    },
+    "Danmark": {
+        "alpha_3": "DNK",
+        "description": "common, Danish, Swedish, Norwegian"
+    },
+    "Kingdom of Denmark": {
+        "alpha_3": "DNK",
+        "description": "official, English"
+    },
+    "Kongeriget Danmark": {
+        "alpha_3": "DNK",
+        "description": "official, Danish"
+    },
+    "Democratic Republic of Congo": {
+        "alpha_3": "COD",
+        "description": "official, English"
+    },
+    "Zaire": {
+        "alpha_3": "COD",
+        "description": "former official name, 1971 to 1997; still occasionally used to distinguish it from Republic of the Congo"
+    },
+    "DRC": {
+        "alpha_3": "COD",
+        "description": "initialism"
+    },
+    "Congo Kinshasa": {
+        "alpha_3": "COD",
+        "description": "used in contrast to Congo Brazzaville"
+    },
+    "Belgian Congo": {
+        "alpha_3": "COD",
+        "description": "former name during Belgian colonization, 1908 to 1960, English"
+    },
+    "Congo belge": {
+        "alpha_3": "COD",
+        "description": "former name, French"
+    },
+    "Congo Free State": {
+        "alpha_3": "COD",
+        "description": "former name, 1885 to 1908"
+    },
+    "Republic of the Congo": {
+        "alpha_3": "COG",
+        "description": "official, English"
+    },
+    "Djibouti": {
+        "alpha_3": "DJI",
+        "description": "common"
+    },
+    "French Territory of the Afars and the Issas, French Somaliland, Obock Territory": {
+        "alpha_3": "DJI",
+        "description": "former names, English"
+    },
+    "Territoire français des Afars et des Issas, Côte française des Somalis, Territoire d'Obock": {
+        "alpha_3": "DJI",
+        "description": "former names, French"
+    },
+    "Republic of Djibouti": {
+        "alpha_3": "DJI",
+        "description": "official, English"
+    },
+    "République de Djibouti": {
+        "alpha_3": "DJI",
+        "description": "official, French"
+    },
+    "East Timor": {
+        "alpha_3": "TLS",
+        "description": "common"
+    },
+    "Timor-Leste": {
+        "alpha_3": "TLS",
+        "description": "official shortform name, English, Portuguese"
+    },
+    "Democratic Republic of Timor-Leste": {
+        "alpha_3": "TLS",
+        "description": "official, English"
+    },
+    "Egypt": {
+        "alpha_3": "EGY",
+        "description": "common"
+    },
+    "Misr": {
+        "alpha_3": "EGY",
+        "description": "formal shortened, Arabic"
+    },
+    "Mess": {
+        "alpha_3": "EGY",
+        "description": "common, Arabic"
+    },
+    "Aegyptus": {
+        "alpha_3": "EGY",
+        "description": "former, Latin"
+    },
+    "Kimi": {
+        "alpha_3": "EGY",
+        "description": "Coptic"
+    },
+    "Arab Republic of Egypt": {
+        "alpha_3": "EGY",
+        "description": "official, English"
+    },
+    "Estonia": {
+        "alpha_3": "EST",
+        "description": "common"
+    },
+    "Eesti": {
+        "alpha_3": "EST",
+        "description": "common, Estonian"
+    },
+    "Viru": {
+        "alpha_3": "EST",
+        "description": "poetic, Estonian"
+    },
+    "Viro": {
+        "alpha_3": "EST",
+        "description": "common, Finnish"
+    },
+    "Estland": {
+        "alpha_3": "EST",
+        "description": "common, German, Swedish, Danish, Norwegian, Dutch"
+    },
+    "Maarjamaa": {
+        "alpha_3": "EST",
+        "description": "Terra Mariana poetic, Estonian"
+    },
+    "Igaunija": {
+        "alpha_3": "EST",
+        "description": "common, Latvian"
+    },
+    "Eswatini": {
+        "alpha_3": "SWZ",
+        "description": "common"
+    },
+    "Swaziland": {
+        "alpha_3": "SWZ",
+        "description": "alternative"
+    },
+    "eSwatini": {
+        "alpha_3": "SWZ",
+        "description": "Swazi"
+    },
+    "Kingdom of Eswatini": {
+        "alpha_3": "SWZ",
+        "description": "official, English"
+    },
+    "Ethiopia": {
+        "alpha_3": "ETH",
+        "description": "common"
+    },
+    "Abyssinia": {
+        "alpha_3": "ETH",
+        "description": "former"
+    },
+    "Habeshastan": {
+        "alpha_3": "ETH",
+        "description": "Turkish"
+    },
+    "Federal Democratic Republic of Ethiopia": {
+        "alpha_3": "ETH",
+        "description": "official, English"
+    },
+    "Ethiopië": {
+        "alpha_3": "ETH",
+        "description": "common, Dutch"
+    },
+    "Al-Habasha": {
+        "alpha_3": "ETH",
+        "description": "Arabic"
+    },
+    "Finland": {
+        "alpha_3": "FIN",
+        "description": "common, English and Swedish"
+    },
+    "Republic of Finland": {
+        "alpha_3": "FIN",
+        "description": "official, English"
+    },
+    "Suomi": {
+        "alpha_3": "FIN",
+        "description": "common, Finnish"
+    },
+    "Suomen tasavalta": {
+        "alpha_3": "FIN",
+        "description": "official, Finnish"
+    },
+    "Republiken Finland": {
+        "alpha_3": "FIN",
+        "description": "official, Swedish"
+    },
+    "Suomenmaa": {
+        "alpha_3": "FIN",
+        "description": "poetic, Finnish"
+    },
+    "Suopma and Suoma dásseváldi": {
+        "alpha_3": "FIN",
+        "description": "North Sami, official"
+    },
+    "Lää´ddjânnam and Lää´ddjânnam tää´ssvä´ldd": {
+        "alpha_3": "FIN",
+        "description": "Skolt Sami, official"
+    },
+    "Suomâ and Suomâ täsiväldi": {
+        "alpha_3": "FIN",
+        "description": "official, Inari Sami"
+    },
+    "Soome": {
+        "alpha_3": "FIN",
+        "description": "common, Estonian"
+    },
+    "France": {
+        "alpha_3": "FRA",
+        "description": "common, English and French"
+    },
+    "French Republic": {
+        "alpha_3": "FRA",
+        "description": "official, English"
+    },
+    "République Française": {
+        "alpha_3": "FRA",
+        "description": "official, French"
+    },
+    "L'Hexagone": {
+        "alpha_3": "FRA",
+        "description": "often journalistic, colloquial French"
+    },
+    "Gaul": {
+        "alpha_3": "FRA",
+        "description": "former name, English"
+    },
+    "Gaule": {
+        "alpha_3": "FRA",
+        "description": "former name, French"
+    },
+    "Gallia": {
+        "alpha_3": "FRA",
+        "description": "Contemporary Greek name"
+    },
+    "Farança": {
+        "alpha_3": "FRA",
+        "description": "common Arabic"
+    },
+    "Tsarfat": {
+        "alpha_3": "FRA",
+        "description": "common Hebrew"
+    },
+    "Gabon": {
+        "alpha_3": "GAB",
+        "description": "common, English"
+    },
+    "Gabonese Republic": {
+        "alpha_3": "GAB",
+        "description": "official, English"
+    },
+    "Georgia": {
+        "alpha_3": "GEO",
+        "description": "official, English"
+    },
+    "Iberia": {
+        "alpha_3": "ESP",
+        "description": "Latin, for the peninsula which includes modern Portugal"
+    },
+    "Colchis": {
+        "alpha_3": "GEO",
+        "description": "former, English, West Georgia"
+    },
+    "Iveria": {
+        "alpha_3": "GEO",
+        "description": "usually used as Christian name"
+    },
+    "Republic of Georgia": {
+        "alpha_3": "GEO",
+        "description": "former, before the 1995 Constitution"
+    },
+    "Sakartvelo": {
+        "alpha_3": "GEO",
+        "description": "Georgian"
+    },
+    "Germany": {
+        "alpha_3": "DEU",
+        "description": "common, English"
+    },
+    "Federal Republic of Germany": {
+        "alpha_3": "DEU",
+        "description": "official, English*"
+    },
+    "Bundesrepublik Deutschland": {
+        "alpha_3": "DEU",
+        "description": "official, German*"
+    },
+    "Deutschland": {
+        "alpha_3": "DEU",
+        "description": "common, German*"
+    },
+    "BRD": {
+        "alpha_3": "DEU",
+        "description": "German initialism*"
+    },
+    "FRG": {
+        "alpha_3": "DEU",
+        "description": "English initialism*"
+    },
+    "Duitsland": {
+        "alpha_3": "DEU",
+        "description": "common, Dutch"
+    },
+    "Allemagne": {
+        "alpha_3": "DEU",
+        "description": "common, French"
+    },
+    "Alemania": {
+        "alpha_3": "DEU",
+        "description": "common, Spanish"
+    },
+    "Germania": {
+        "alpha_3": "DEU",
+        "description": "common, Italian"
+    },
+    "Nemecko": {
+        "alpha_3": "DEU",
+        "description": "common, Czech"
+    },
+    "Niemcy": {
+        "alpha_3": "DEU",
+        "description": "common, Polish"
+    },
+    "Németország": {
+        "alpha_3": "DEU",
+        "description": "common, Hungarian"
+    },
+    "Former East Germany": {
+        "alpha_3": "DEU",
+        "description": "unofficial, English"
+    },
+    "Deutsche Demokratische Republik": {
+        "alpha_3": "DEU",
+        "description": "official, German"
+    },
+    "German Democratic Republic": {
+        "alpha_3": "DEU",
+        "description": "official, English"
+    },
+    "DDR": {
+        "alpha_3": "DEU",
+        "description": "German initialism"
+    },
+    "GDR": {
+        "alpha_3": "DEU",
+        "description": "English initialism."
+    },
+    "Ghana": {
+        "alpha_3": "GHA",
+        "description": "common, English"
+    },
+    "Gold Coast": {
+        "alpha_3": "GHA",
+        "description": "colonial, English"
+    },
+    "United Gold Coast Convention": {
+        "alpha_3": "GHA",
+        "description": "UGCC"
+    },
+    "Ghana Tinzuyu": {
+        "alpha_3": "GHA",
+        "description": "Dagbon"
+    },
+    "Gaana": {
+        "alpha_3": "GHA",
+        "description": "Akan"
+    },
+    "Greece": {
+        "alpha_3": "GRC",
+        "description": "official English description"
+    },
+    "Hellas": {
+        "alpha_3": "GRC",
+        "description": "official description in Greek"
+    },
+    "Hellada": {
+        "alpha_3": "GRC",
+        "description": "common name in Greek"
+    },
+    "Yunanistan": {
+        "alpha_3": "GRC",
+        "description": "Turkish"
+    },
+    "Hellenic Republic": {
+        "alpha_3": "GRC",
+        "description": "official name of Greek state, English"
+    },
+    "Yavan": {
+        "alpha_3": "GRC",
+        "description": "common Hebrew"
+    },
+    "The Republic of Guinea": {
+        "alpha_3": "GIN",
+        "description": "official"
+    },
+    "Guinea": {
+        "alpha_3": "GNB",
+        "description": "shorthand, used when context clearly distinguishes Guinea-Bissau from the neighboring Republic of Guinea"
+    },
+    "Guinea-Bissau": {
+        "alpha_3": "GNB",
+        "description": "common, English"
+    },
+    "Portuguese Guinea": {
+        "alpha_3": "GNB",
+        "description": "former, English"
+    },
+    "Republic of Guinea-Bissau": {
+        "alpha_3": "GNB",
+        "description": "official, English"
+    },
+    "Guiné-Bissao": {
+        "alpha_3": "GNB",
+        "description": "archaic, Portuguese"
+    },
+    "Hungary": {
+        "alpha_3": "HUN",
+        "description": "official, English"
+    },
+    "Republic of Hungary": {
+        "alpha_3": "HUN",
+        "description": "official between 1946–1949 and 1989–2012"
+    },
+    "Hungarian People's Republic": {
+        "alpha_3": "HUN",
+        "description": "official, 1918–1919 and 1949–1989"
+    },
+    "Kingdom of Hungary": {
+        "alpha_3": "HUN",
+        "description": "1000–1918 and 1920–1946"
+    },
+    "Regnum Hungari": {
+        "alpha_3": "HUN",
+        "description": "official in Latin, the language of administration until 1844"
+    },
+    "Hungaria": {
+        "alpha_3": "HUN",
+        "description": "short form, Latin"
+    },
+    "Magyarország": {
+        "alpha_3": "HUN",
+        "description": "official Hungarian name; has been the commonly used form of the name during all its history"
+    },
+    "Magyar Köztársaság": {
+        "alpha_3": "HUN",
+        "description": "Hungarian for Republic of Hungary"
+    },
+    "Magyar Népköztársaság": {
+        "alpha_3": "HUN",
+        "description": "Hungarian for People's Republic of Hungary"
+    },
+    "Magyar Tanácsköztársaság": {
+        "alpha_3": "HUN",
+        "description": "Hungarian name of the first People's Republic"
+    },
+    "Magyar Királyság": {
+        "alpha_3": "HUN",
+        "description": "Hungarian for Kingdom of Hungary"
+    },
+    "Iceland": {
+        "alpha_3": "ISL",
+        "description": "official, English"
+    },
+    "Republic of Iceland": {
+        "alpha_3": "ISL",
+        "description": "official English description"
+    },
+    "Ísland": {
+        "alpha_3": "ISL",
+        "description": "official Icelandic name"
+    },
+    "Lýðveldið Ísland": {
+        "alpha_3": "ISL",
+        "description": "official Icelandic description"
+    },
+    "Fold": {
+        "alpha_3": "ISL",
+        "description": "poetic name"
+    },
+    "Thule": {
+        "alpha_3": "SWE",
+        "description": "Latin name, also poetic"
+    },
+    "Frón": {
+        "alpha_3": "ISL",
+        "description": "poetic"
+    },
+    "Ísafold": {
+        "alpha_3": "ISL",
+        "description": "poetic"
+    },
+    "India": {
+        "alpha_3": "IND",
+        "description": "common, English"
+    },
+    "Bharat": {
+        "alpha_3": "IND",
+        "description": "official name in Hindi"
+    },
+    "Bharat Ganarajya": {
+        "alpha_3": "IND",
+        "description": "official long form in Hindi"
+    },
+    "Bharata": {
+        "alpha_3": "IND",
+        "description": "Kannada"
+    },
+    "Bharatadesam": {
+        "alpha_3": "IND",
+        "description": "Telugu"
+    },
+    "Republic of India": {
+        "alpha_3": "IND",
+        "description": "official long form in English"
+    },
+    "Union of India": {
+        "alpha_3": "IND",
+        "description": "semi-official name"
+    },
+    "Hindustan": {
+        "alpha_3": "IND",
+        "description": "unofficial name in Hindi/Urdu"
+    },
+    "Al-Hind": {
+        "alpha_3": "IND",
+        "description": "name in Arabic/Persian/Urdu"
+    },
+    "Bharat Prajatantra": {
+        "alpha_3": "IND",
+        "description": "official long form in Bengali"
+    },
+    "Bharatavarsa": {
+        "alpha_3": "IND",
+        "description": "name in Sanskrit"
+    },
+    "Hodu": {
+        "alpha_3": "IND",
+        "description": "name in Hebrew"
+    },
+    "Aryavarta": {
+        "alpha_3": "IND",
+        "description": "obsolete name"
+    },
+    "Jumhuriyat-e Bharat": {
+        "alpha_3": "IND",
+        "description": "name in Urdu."
+    },
+    "Indonesia": {
+        "alpha_3": "IDN",
+        "description": "common"
+    },
+    "Republic of Indonesia": {
+        "alpha_3": "IDN",
+        "description": "official, English"
+    },
+    "Republik Indonesia": {
+        "alpha_3": "IDN",
+        "description": "official, Indonesian"
+    },
+    "Nusantara": {
+        "alpha_3": "IDN",
+        "description": "dating back from Hindu era"
+    },
+    "Insulinde": {
+        "alpha_3": "IDN",
+        "description": "from the Colonial era"
+    },
+    "Indunesia": {
+        "alpha_3": "IDN",
+        "description": "suggestion for Dutch East Indies' modern name"
+    },
+    "Indonesië": {
+        "alpha_3": "IDN",
+        "description": "common, Dutch"
+    },
+    "Dutch East Indies or Netherlands East-Indies": {
+        "alpha_3": "IDN",
+        "description": "former, English"
+    },
+    "Nederlandsch-Indië": {
+        "alpha_3": "IDN",
+        "description": "former, Dutch"
+    },
+    "Hindia Belanda": {
+        "alpha_3": "IDN",
+        "description": "former, Indonesian"
+    },
+    "Islamic Republic or Iran": {
+        "alpha_3": "IRN",
+        "description": "official"
+    },
+    "Iran": {
+        "alpha_3": "IRN",
+        "description": "common"
+    },
+    "Persia": {
+        "alpha_3": "IRN",
+        "description": "coined by ancient Greeks"
+    },
+    "Iraq": {
+        "alpha_3": "IRQ",
+        "description": "common"
+    },
+    "Mesopotamia": {
+        "alpha_3": "IRQ",
+        "description": "former name"
+    },
+    "Assyria": {
+        "alpha_3": "IRQ",
+        "description": "former/historical name"
+    },
+    "Babylon": {
+        "alpha_3": "IRQ",
+        "description": "former/historical name"
+    },
+    "Ireland": {
+        "alpha_3": "IRL",
+        "description": "common and official, English"
+    },
+    "Éire": {
+        "alpha_3": "IRL",
+        "description": "official Irish name"
+    },
+    "Irish Free State": {
+        "alpha_3": "IRL",
+        "description": "1922–1937"
+    },
+    "Poblacht na hÉireann": {
+        "alpha_3": "IRL",
+        "description": "official Irish description"
+    },
+    "Republic of Ireland": {
+        "alpha_3": "IRL",
+        "description": "unofficial English description"
+    },
+    "Saorstát Éireann": {
+        "alpha_3": "IRL",
+        "description": "Irish 1922–1937"
+    },
+    "Erin, Banba, Fodla": {
+        "alpha_3": "IRL",
+        "description": "three poetic names"
+    },
+    "Hibernia": {
+        "alpha_3": "IRL",
+        "description": "Latin name, also poetic"
+    },
+    "Israel": {
+        "alpha_3": "ISR",
+        "description": "common"
+    },
+    "State of Israel": {
+        "alpha_3": "ISR",
+        "description": "official English name"
+    },
+    "Zion": {
+        "alpha_3": "ISR",
+        "description": "historical Jewish name for Jerusalem"
+    },
+    "Yehuda": {
+        "alpha_3": "ISR",
+        "description": "Hebrew for the ancient land of Judea"
+    },
+    "the Jewish State": {
+        "alpha_3": "ISR",
+        "description": "unofficial"
+    },
+    "the Hebrew State": {
+        "alpha_3": "ISR",
+        "description": "unofficial"
+    },
+    "the Holy Land": {
+        "alpha_3": "PSE",
+        "description": "Bible"
+    },
+    "Eretz Yisrael": {
+        "alpha_3": "PSE",
+        "description": "Bible"
+    },
+    "Tel Aviv regime": {
+        "alpha_3": "ISR",
+        "description": "used in Iran's news media"
+    },
+    "the Zionist entity": {
+        "alpha_3": "ISR",
+        "description": "referred to Arabs and Muslims, also used by Iran's news media"
+    },
+    "Occupied Palestine": {
+        "alpha_3": "ISR",
+        "description": "used by Arabs and Muslims, as well as pro-Palestinian supporters"
+    },
+    "Illegal State of Zion": {
+        "alpha_3": "ISR",
+        "description": "sometimes used by Arabs, Muslims, and pro-Palestinian supporters"
+    },
+    "Zionistan": {
+        "alpha_3": "ISR",
+        "description": "sometimes used by Arabs, Muslims, and pro-Palestinian supporters"
+    },
+    "Herzlstan": {
+        "alpha_3": "ISR",
+        "description": "used by pro-Palestinans and anti-Zionist Jews, named after Theodore Herzl"
+    },
+    "Italy": {
+        "alpha_3": "ITA",
+        "description": "common"
+    },
+    "Repubblica Italiana": {
+        "alpha_3": "ITA",
+        "description": "official Italian name"
+    },
+    "Italia": {
+        "alpha_3": "ITA",
+        "description": "common, Italian"
+    },
+    "the Beautiful Country": {
+        "alpha_3": "ITA",
+        "description": "nickname"
+    },
+    "the Boot": {
+        "alpha_3": "ITA",
+        "description": "journalistic"
+    },
+    "Ausonia, Esperia, Enotria, Tirrenia": {
+        "alpha_3": "ITA",
+        "description": "poetic names"
+    },
+    "Jamaica": {
+        "alpha_3": "JAM",
+        "description": "common"
+    },
+    "Xamayca": {
+        "alpha_3": "JAM",
+        "description": "Spanish version of Taino name"
+    },
+    "Japan": {
+        "alpha_3": "JPN",
+        "description": "common"
+    },
+    "Nippon": {
+        "alpha_3": "JPN",
+        "description": "official name in Japanese"
+    },
+    "Nihon": {
+        "alpha_3": "JPN",
+        "description": "alternate"
+    },
+    "Yamato": {
+        "alpha_3": "JPN",
+        "description": "historic, ancient Japan"
+    },
+    "Oyashima": {
+        "alpha_3": "JPN",
+        "description": "meaning the country of eight great islands, historic"
+    },
+    "Cipangu/Zipangu": {
+        "alpha_3": "JPN",
+        "description": "appeared in The Travels of Marco Polo in the 13th century"
+    },
+    "Gipangu": {
+        "alpha_3": "JPN",
+        "description": "appeared in The Travels of Marco Polo in the 13th century"
+    },
+    "Hinomoto": {
+        "alpha_3": "JPN",
+        "description": "null"
+    },
+    "Jordan": {
+        "alpha_3": "JOR",
+        "description": "common"
+    },
+    "Hashemite Kingdom of Jordan": {
+        "alpha_3": "JOR",
+        "description": "official, English"
+    },
+    "Kazakhstan": {
+        "alpha_3": "KAZ",
+        "description": "English passport short name"
+    },
+    "Republic of Kazakhstan": {
+        "alpha_3": "KAZ",
+        "description": "English passport long name"
+    },
+    "Qazaqstan": {
+        "alpha_3": "KAZ",
+        "description": "Kazakh short name in Latin script"
+    },
+    "Alash / ???? / Alas": {
+        "alpha_3": "KAZ",
+        "description": "former name, also poetic"
+    },
+    "Kazakh Soviet Socialist Republic": {
+        "alpha_3": "KAZ",
+        "description": "former Soviet name, English"
+    },
+    "Kenya": {
+        "alpha_3": "KEN",
+        "description": "conventional short form"
+    },
+    "Republic of Kenya": {
+        "alpha_3": "KEN",
+        "description": "official, English"
+    },
+    "Jamhuri ya Kenya": {
+        "alpha_3": "KEN",
+        "description": "official, Swahili"
+    },
+    "British East Africa Protectorate": {
+        "alpha_3": "KEN",
+        "description": "former name 1880s until 1920"
+    },
+    "Kenya Colony": {
+        "alpha_3": "KEN",
+        "description": "former name 1920 until 1963"
+    },
+    "North Korea": {
+        "alpha_3": "PRK",
+        "description": "common, English"
+    },
+    "Democratic People's Republic of Korea": {
+        "alpha_3": "PRK",
+        "description": "official, English"
+    },
+    "D.P.R.K.": {
+        "alpha_3": "PRK",
+        "description": "initialism, English"
+    },
+    "DPRK": {
+        "alpha_3": "PRK",
+        "description": "initialism, English"
+    },
+    "Choson Minjujuui Inmin Konghwaguk": {
+        "alpha_3": "PRK",
+        "description": "official, Korean"
+    },
+    "Cho-son": {
+        "alpha_3": "PRK",
+        "description": "colloquial, Korean"
+    },
+    "Korea": {
+        "alpha_3": "KOR",
+        "description": "conventional short form"
+    },
+    "South Korea": {
+        "alpha_3": "KOR",
+        "description": "common, English"
+    },
+    "Republic of Korea": {
+        "alpha_3": "KOR",
+        "description": "official, English"
+    },
+    "R.O.K.": {
+        "alpha_3": "KOR",
+        "description": "initialism, English"
+    },
+    "ROK": {
+        "alpha_3": "KOR",
+        "description": "initialism, English"
+    },
+    "Dae-han-min-guk": {
+        "alpha_3": "KOR",
+        "description": "official, Korean"
+    },
+    "Han-guk": {
+        "alpha_3": "KOR",
+        "description": "colloquial, Korean"
+    },
+    "Korea Republic": {
+        "alpha_3": "KOR",
+        "description": "FIFA designation"
+    },
+    "Kosovo": {
+        "alpha_3": "null",
+        "description": "common, English"
+    },
+    "Republic of Kosovo": {
+        "alpha_3": "null",
+        "description": "official, English"
+    },
+    "Republika e Kosovës": {
+        "alpha_3": "null",
+        "description": "official, Albanian"
+    },
+    "Republika Kosovo": {
+        "alpha_3": "null",
+        "description": "official, Serbian Latin"
+    },
+    "Kyrgyzstan": {
+        "alpha_3": "KGZ",
+        "description": "common, English"
+    },
+    "Kyrgyz Republic": {
+        "alpha_3": "KGZ",
+        "description": "alternative"
+    },
+    "Kyrgyz Respublikasy": {
+        "alpha_3": "KGZ",
+        "description": "Kyrgyz short name in Latin script"
+    },
+    "Kyrgyzskaya Respublika": {
+        "alpha_3": "KGZ",
+        "description": "Russian short name in Latin script"
+    },
+    "Kirghiz Soviet Socialist Republic": {
+        "alpha_3": "KGZ",
+        "description": "former Soviet name, English"
+    },
+    "Kyrgyz Sovettik Sotsialisttik Respublikasy": {
+        "alpha_3": "KGZ",
+        "description": "former Soviet name, Kyrgyz"
+    },
+    "Kirgizskaya Sovetskaya Sotsialisticheskaya Respublika": {
+        "alpha_3": "KGZ",
+        "description": "former Soviet name, Russian"
+    },
+    "Kirghizia": {
+        "alpha_3": "KGZ",
+        "description": "former common English name prior to 1991"
+    },
+    "Kirgizstan": {
+        "alpha_3": "KGZ",
+        "description": "Russian transliteration of the English name"
+    },
+    "Republic of Kyrgyzstan": {
+        "alpha_3": "KGZ",
+        "description": "official English long name, 1990–1993"
+    },
+    "Laos": {
+        "alpha_3": "LAO",
+        "description": "common, English"
+    },
+    "Lao People's Democratic Republic": {
+        "alpha_3": "LAO",
+        "description": "official, English"
+    },
+    "Sathalanalat Paxathipatai Paxaxôn": {
+        "alpha_3": "LAO",
+        "description": "romanized Lao"
+    },
+    "République démocratique populaire lao": {
+        "alpha_3": "LAO",
+        "description": "French"
+    },
+    "Latvia": {
+        "alpha_3": "LVA",
+        "description": "common, English"
+    },
+    "Latvija": {
+        "alpha_3": "LVA",
+        "description": "common, Latvian"
+    },
+    "Lettland": {
+        "alpha_3": "LVA",
+        "description": "German, Swedish"
+    },
+    "Letland": {
+        "alpha_3": "LVA",
+        "description": "Dutch, Danish"
+    },
+    "Letonija": {
+        "alpha_3": "LVA",
+        "description": "Serbian"
+    },
+    "Letonnie": {
+        "alpha_3": "LVA",
+        "description": "French"
+    },
+    "Lebanon": {
+        "alpha_3": "LBN",
+        "description": "common, English"
+    },
+    "The Lebanese Republic": {
+        "alpha_3": "LBN",
+        "description": "official, English"
+    },
+    "Al-Jumhuriyya Al-Lubnaniyya": {
+        "alpha_3": "LBN",
+        "description": "official, Arabic"
+    },
+    "Lebnan": {
+        "alpha_3": "LBN",
+        "description": "Common, Arabic"
+    },
+    "Lubnan": {
+        "alpha_3": "LBN",
+        "description": "Common, Arabic"
+    },
+    "Liban": {
+        "alpha_3": "LBN",
+        "description": "Common, French"
+    },
+    "Levanon": {
+        "alpha_3": "LBN",
+        "description": "Common, Hebrew"
+    },
+    "Lesotho": {
+        "alpha_3": "LSO",
+        "description": "common, English"
+    },
+    "Basutoland": {
+        "alpha_3": "LSO",
+        "description": "former, English"
+    },
+    "Kingdom of Lesotho": {
+        "alpha_3": "LSO",
+        "description": "official, English"
+    },
+    "Lithuania": {
+        "alpha_3": "LTU",
+        "description": "common, English"
+    },
+    "Lietuva": {
+        "alpha_3": "LTU",
+        "description": "common, Lithuanian"
+    },
+    "Lietuvos Respublika": {
+        "alpha_3": "LTU",
+        "description": "official, Lithuanian"
+    },
+    "Lita": {
+        "alpha_3": "LTU",
+        "description": "common, Yiddish/Hebrew"
+    },
+    "Luxembourg": {
+        "alpha_3": "LUX",
+        "description": "common, French"
+    },
+    "Grand Duchy of Luxembourg": {
+        "alpha_3": "LUX",
+        "description": "official, English"
+    },
+    "Groussherzogdem Lëtzebuerg": {
+        "alpha_3": "LUX",
+        "description": "official, Luxembourgish"
+    },
+    "Lëtzebuerg": {
+        "alpha_3": "LUX",
+        "description": "common, Luxembourgish"
+    },
+    "Grand-Duché de Luxembourg": {
+        "alpha_3": "LUX",
+        "description": "official, French"
+    },
+    "Großherzogtum Luxemburg": {
+        "alpha_3": "LUX",
+        "description": "official, German"
+    },
+    "Luxemburg": {
+        "alpha_3": "LUX",
+        "description": "common, German"
+    },
+    "Luxemburgo": {
+        "alpha_3": "LUX",
+        "description": "common, Spanish & Portuguese"
+    },
+    "Lussemburgo": {
+        "alpha_3": "LUX",
+        "description": "common, Italian"
+    },
+    "Madagascar": {
+        "alpha_3": "MDG",
+        "description": "common"
+    },
+    "Madagasikara": {
+        "alpha_3": "MDG",
+        "description": "Malagasy"
+    },
+    "Republic of Madagascar": {
+        "alpha_3": "MDG",
+        "description": "official, English"
+    },
+    "Repoblikan'i Madagasikara": {
+        "alpha_3": "MDG",
+        "description": "official, Malagasy"
+    },
+    "République de Madagascar": {
+        "alpha_3": "MDG",
+        "description": "official, French"
+    },
+    "Malawi": {
+        "alpha_3": "MWI",
+        "description": "common"
+    },
+    "Nyasaland": {
+        "alpha_3": "MWI",
+        "description": "former, English"
+    },
+    "Republic of Malawi": {
+        "alpha_3": "MWI",
+        "description": "official, English"
+    },
+    "Malaysia": {
+        "alpha_3": "MYS",
+        "description": "official"
+    },
+    "Persekutuan Malaysia": {
+        "alpha_3": "MYS",
+        "description": "colloquial long form, Malay"
+    },
+    "Federation of Malaysia": {
+        "alpha_3": "MYS",
+        "description": "colloquial long form, English"
+    },
+    "Malaya, Sabah and Sarawak": {
+        "alpha_3": "MYS",
+        "description": "former, English names of the various components"
+    },
+    "Tanah Melayu or Malay Land": {
+        "alpha_3": "MYS",
+        "description": "former, Malay"
+    },
+    "Maláixiyà": {
+        "alpha_3": "MYS",
+        "description": "common, Mandarin"
+    },
+    "Malesiya": {
+        "alpha_3": "MYS",
+        "description": "common, Tamil"
+    },
+    "Maldives": {
+        "alpha_3": "MDV",
+        "description": "common"
+    },
+    "Republic of the Maldives": {
+        "alpha_3": "MDV",
+        "description": "official"
+    },
+    "The Maldive Islands": {
+        "alpha_3": "MDV",
+        "description": "colloquial, colonial"
+    },
+    "Dhivehi Raajje": {
+        "alpha_3": "MDV",
+        "description": "official, Dhivehi"
+    },
+    "Mahal Dvipa": {
+        "alpha_3": "MDV",
+        "description": "ancient, Sanskrit"
+    },
+    "Maléldvipa": {
+        "alpha_3": "MDV",
+        "description": "ancient, Sanskrit"
+    },
+    "Dhibat-al-Mahal": {
+        "alpha_3": "MDV",
+        "description": "ancient, Arabic"
+    },
+    "Mauritania": {
+        "alpha_3": "MRT",
+        "description": "common"
+    },
+    "Islamic Republic of Mauritania": {
+        "alpha_3": "MRT",
+        "description": "official, English"
+    },
+    "République Islamique de Mauritanie": {
+        "alpha_3": "MRT",
+        "description": "official, French"
+    },
+    "Mexico": {
+        "alpha_3": "MEX",
+        "description": "shortened form"
+    },
+    "United Mexican States": {
+        "alpha_3": "MEX",
+        "description": "official, English"
+    },
+    "Estados Unidos Mexicanos": {
+        "alpha_3": "MEX",
+        "description": "official, Spanish"
+    },
+    "México": {
+        "alpha_3": "MEX",
+        "description": "Spanish short form"
+    },
+    "República Mexicana": {
+        "alpha_3": "MEX",
+        "description": "colloquial, Spanish"
+    },
+    "Méjico": {
+        "alpha_3": "MEX",
+        "description": "Spanish variant"
+    },
+    "MEX": {
+        "alpha_3": "MEX",
+        "description": "initialism"
+    },
+    "MX": {
+        "alpha_3": "MEX",
+        "description": "initialism"
+    },
+    "Aztlán": {
+        "alpha_3": "MEX",
+        "description": "Spanish, Nahuatl"
+    },
+    "Aztlan": {
+        "alpha_3": "MEX",
+        "description": "Spanish, Nahuatl"
+    },
+    "Moldova": {
+        "alpha_3": "MDA",
+        "description": "common"
+    },
+    "Republic of Moldova": {
+        "alpha_3": "MDA",
+        "description": "official"
+    },
+    "Republica Moldova": {
+        "alpha_3": "MDA",
+        "description": "official, Moldovan and Romanian"
+    },
+    "Moldavian Soviet Socialist Republic": {
+        "alpha_3": "MDA",
+        "description": "former Soviet name, English"
+    },
+    "Bessarabia, Bassarabia": {
+        "alpha_3": "MDA",
+        "description": "historic name, still used by irredentists"
+    },
+    "Bogdan": {
+        "alpha_3": "MDA",
+        "description": "'Land of Voyvoda I. Bogdan', former common and official name during Ottoman Empire, Turkish"
+    },
+    "Moldavia": {
+        "alpha_3": "MDA",
+        "description": "alternative name in English"
+    },
+    "Moldau": {
+        "alpha_3": "MDA",
+        "description": "alternative name in German"
+    },
+    "Morocco": {
+        "alpha_3": "MAR",
+        "description": "common"
+    },
+    "Kingdom of Morocco": {
+        "alpha_3": "MAR",
+        "description": "official"
+    },
+    "Al Mamkaka Al Maghribiya": {
+        "alpha_3": "MAR",
+        "description": "official, Arabic"
+    },
+    "Maghreb": {
+        "alpha_3": "MAR",
+        "description": "English"
+    },
+    "Montenegro": {
+        "alpha_3": "MNE",
+        "description": "official, English and other languages"
+    },
+    "Crna Gora": {
+        "alpha_3": "MNE",
+        "description": "official, Montenegrin, Serbian and Croatian"
+    },
+    "Republic of Montenegro": {
+        "alpha_3": "MNE",
+        "description": "official until 2007"
+    },
+    "Republika Crna Gora": {
+        "alpha_3": "MNE",
+        "description": "official until 2007"
+    },
+    "Mali i Zi": {
+        "alpha_3": "MNE",
+        "description": "official, Albanian"
+    },
+    "Karadag": {
+        "alpha_3": "MNE",
+        "description": "official, Turkish"
+    },
+    "Duklja": {
+        "alpha_3": "MNE",
+        "description": "name in medieval times"
+    },
+    "Zeta": {
+        "alpha_3": "MNE",
+        "description": "alternative name in medieval times"
+    },
+    "Black Mountain": {
+        "alpha_3": "MNE",
+        "description": "literal translation into English"
+    },
+    "Myanmar": {
+        "alpha_3": "MMR",
+        "description": "common"
+    },
+    "Republic of the Union of Myanmar": {
+        "alpha_3": "MMR",
+        "description": "official"
+    },
+    "Burma": {
+        "alpha_3": "MMR",
+        "description": "colloquial"
+    },
+    "Netherlands": {
+        "alpha_3": "NLD",
+        "description": "official, English"
+    },
+    "Kingdom of the Netherlands": {
+        "alpha_3": "NLD",
+        "description": "official, English"
+    },
+    "Koninkrijk der Nederlanden": {
+        "alpha_3": "NLD",
+        "description": "official, Dutch"
+    },
+    "Nederland": {
+        "alpha_3": "NLD",
+        "description": "Dutch"
+    },
+    "Holland": {
+        "alpha_3": "NLD",
+        "description": "pars pro toto, English, Dutch and other languages"
+    },
+    "Batavia": {
+        "alpha_3": "NLD",
+        "description": "former and poetic, English, Dutch and other languages"
+    },
+    "Pays-Bas": {
+        "alpha_3": "NLD",
+        "description": "French"
+    },
+    "Nepal": {
+        "alpha_3": "NPL",
+        "description": "common, English"
+    },
+    "Federal Democratic Republic Of Nepal": {
+        "alpha_3": "NPL",
+        "description": "official, English"
+    },
+    "New Zealand": {
+        "alpha_3": "NZL",
+        "description": "official, English"
+    },
+    "Aotearoa": {
+        "alpha_3": "NZL",
+        "description": "official, Maori"
+    },
+    "Realm of New Zealand": {
+        "alpha_3": "NZL",
+        "description": "official English name including Cook Islands, Niue, Tokelau, and Ross Dependency"
+    },
+    "Dominion of New Zealand": {
+        "alpha_3": "NZL",
+        "description": "former official, English"
+    },
+    "North Macedonia": {
+        "alpha_3": "MKD",
+        "description": "shortened form"
+    },
+    "Republic of North Macedonia": {
+        "alpha_3": "MKD",
+        "description": "official"
+    },
+    "Republic of Macedonia": {
+        "alpha_3": "MKD",
+        "description": "former"
+    },
+    "The former Yugoslav Republic of Macedonia": {
+        "alpha_3": "MKD",
+        "description": "former"
+    },
+    "Paeonia": {
+        "alpha_3": "MKD",
+        "description": "Latin name, poetic"
+    },
+    "Vardar Banovina": {
+        "alpha_3": "MKD",
+        "description": "former Yugoslav province"
+    },
+    "Norway": {
+        "alpha_3": "NOR",
+        "description": "common, English"
+    },
+    "Norge": {
+        "alpha_3": "NOR",
+        "description": "common, Norwegian Bokmål, Danish, Swedish"
+    },
+    "Noreg": {
+        "alpha_3": "NOR",
+        "description": "common, Norwegian Nynorsk"
+    },
+    "Kingdom of Norway": {
+        "alpha_3": "NOR",
+        "description": "official, English"
+    },
+    "Kongeriket Norge": {
+        "alpha_3": "NOR",
+        "description": "official, Norwegian Bokmål"
+    },
+    "Kongeriket Noreg": {
+        "alpha_3": "NOR",
+        "description": "official, Norwegian Nynorsk"
+    },
+    "Oman": {
+        "alpha_3": "OMN",
+        "description": "official, English"
+    },
+    "Sultanate of Oman": {
+        "alpha_3": "OMN",
+        "description": "official, English"
+    },
+    "Pakistan": {
+        "alpha_3": "PAK",
+        "description": "common, English"
+    },
+    "Islamic Republic of Pakistan": {
+        "alpha_3": "PAK",
+        "description": "official and constitutional, English"
+    },
+    "Federation of Pakistan": {
+        "alpha_3": "PAK",
+        "description": "alternate official name, English"
+    },
+    "Dominion of Pakistan": {
+        "alpha_3": "PAK",
+        "description": "historic official name, English"
+    },
+    "West Pakistan": {
+        "alpha_3": "PAK",
+        "description": "common and later official name before the secession of Bangladesh"
+    },
+    "Sindhustan and Indoscythia": {
+        "alpha_3": "PAK",
+        "description": "unofficial historical names"
+    },
+    "Mumlikat-e Khudadaad Pakistan": {
+        "alpha_3": "PAK",
+        "description": "The God-given realm of Pakistan, unofficial, used in literature mostly, Urdu"
+    },
+    "Palau": {
+        "alpha_3": "PLW",
+        "description": "common, English"
+    },
+    "Republic of Palau": {
+        "alpha_3": "PLW",
+        "description": "official, English"
+    },
+    "Belau": {
+        "alpha_3": "PLW",
+        "description": "common, Palauan"
+    },
+    "Palestine": {
+        "alpha_3": "PSE",
+        "description": "common, English"
+    },
+    "State of Palestine": {
+        "alpha_3": "PSE",
+        "description": "English name, official, semi-international designation"
+    },
+    "Medinat Palestina": {
+        "alpha_3": "PSE",
+        "description": "Hebrew name"
+    },
+    "Dawlat Filastin": {
+        "alpha_3": "PSE",
+        "description": "official Arabic name"
+    },
+    "Filastin": {
+        "alpha_3": "PSE",
+        "description": "common name, Arabic"
+    },
+    "Palestina": {
+        "alpha_3": "PSE",
+        "description": "common name, Hebrew"
+    },
+    "Palestinian National Authority": {
+        "alpha_3": "PSE",
+        "description": "English name, alternate official"
+    },
+    "as-Sul?a al-Filastiniya": {
+        "alpha_3": "PSE",
+        "description": "Arabic name, alternate official"
+    },
+    "West Bank and Gaza Strip": {
+        "alpha_3": "PSE",
+        "description": "territorial names"
+    },
+    "Palestinian territories": {
+        "alpha_3": "PSE",
+        "description": "official name, English"
+    },
+    "al-Aradi al-Filastiniyya": {
+        "alpha_3": "PSE",
+        "description": "official name, Arabic"
+    },
+    "Occupied Palestinian Territory / Occupied Palestinian Territories": {
+        "alpha_3": "PSE",
+        "description": "International designation, English"
+    },
+    "Israeli-occupied territories": {
+        "alpha_3": "PSE",
+        "description": "name of the territories occupied by Israel since 1967, English"
+    },
+    "Mandatory Palestine": {
+        "alpha_3": "PSE",
+        "description": "former name, English"
+    },
+    "Peru": {
+        "alpha_3": "PER",
+        "description": "common, English"
+    },
+    "Republic of Peru": {
+        "alpha_3": "PER",
+        "description": "official, English"
+    },
+    "República del Perú": {
+        "alpha_3": "PER",
+        "description": "official, Spanish"
+    },
+    "Perú": {
+        "alpha_3": "PER",
+        "description": "common, Spanish"
+    },
+    "Peruvian Republic": {
+        "alpha_3": "PER",
+        "description": "former official name, English"
+    },
+    "República Peruana": {
+        "alpha_3": "PER",
+        "description": "former official name, Spanish"
+    },
+    "Philippines": {
+        "alpha_3": "PHL",
+        "description": "common, English"
+    },
+    "Repúblika ng Pilipinas": {
+        "alpha_3": "PHL",
+        "description": "official, Filipino"
+    },
+    "Republic of the Philippines": {
+        "alpha_3": "PHL",
+        "description": "official, English"
+    },
+    "Pilipinas": {
+        "alpha_3": "PHL",
+        "description": "common, corruption of the Spanish, Filipinas"
+    },
+    "Filipinas": {
+        "alpha_3": "PHL",
+        "description": "common Spanish and other local languages"
+    },
+    "Las Islas Filipinas": {
+        "alpha_3": "PHL",
+        "description": "named after Philip II of Spain, historical, Spanish"
+    },
+    "Las Islas Felipenas": {
+        "alpha_3": "PHL",
+        "description": "historical, by Ruy López de Villalobos"
+    },
+    "Pinás": {
+        "alpha_3": "PHL",
+        "description": "colloquial"
+    },
+    "PH": {
+        "alpha_3": "PHL",
+        "description": "official initialism, changed from RP to avoid confusion with Poland; see below"
+    },
+    "Philippine Islands": {
+        "alpha_3": "PHL",
+        "description": "historic; official name under American control; also used colloquially, English"
+    },
+    "Filipina": {
+        "alpha_3": "PHL",
+        "description": "common, Malay"
+    },
+    "Haríng Bayang Katagalugan": {
+        "alpha_3": "PHL",
+        "description": "Sovereign Tagalog Nation, historical, by Andrés Bonifacio"
+    },
+    "Islas de San Lázaro": {
+        "alpha_3": "PHL",
+        "description": "Isles of Saint Lazarus, historical, by Ferdinand Magellan"
+    },
+    "Poland": {
+        "alpha_3": "POL",
+        "description": "common, English"
+    },
+    "Republic of Poland": {
+        "alpha_3": "POL",
+        "description": "official, English"
+    },
+    "Rzeczpospolita Polska": {
+        "alpha_3": "POL",
+        "description": "official, Polish"
+    },
+    "Polska": {
+        "alpha_3": "POL",
+        "description": "common, Polish"
+    },
+    "RP": {
+        "alpha_3": "POL",
+        "description": "often journalistic, Polish"
+    },
+    "People's Republic of Poland": {
+        "alpha_3": "POL",
+        "description": "former Communist name, English"
+    },
+    "Polska Rzeczpospolita Ludowa": {
+        "alpha_3": "POL",
+        "description": "former Communist name, Polish"
+    },
+    "Rzeczpospolita": {
+        "alpha_3": "POL",
+        "description": "historic common name, Polish"
+    },
+    "Polish–Lithuanian Commonwealth": {
+        "alpha_3": "POL",
+        "description": "historic official name, English"
+    },
+    "Rzeczpospolita Obojga Narodów": {
+        "alpha_3": "POL",
+        "description": "historic official name, Polish"
+    },
+    "United Commonwealth of the Two Nations": {
+        "alpha_3": "POL",
+        "description": "historic official name, English"
+    },
+    "Polonia": {
+        "alpha_3": "POL",
+        "description": "poetic, Latin and Polish"
+    },
+    "Lechia": {
+        "alpha_3": "POL",
+        "description": "historic and poetic original name, Latin, Polish, and English"
+    },
+    "Portugal": {
+        "alpha_3": "PRT",
+        "description": "common"
+    },
+    "Portuguese Republic": {
+        "alpha_3": "PRT",
+        "description": "official, English"
+    },
+    "Lusitania": {
+        "alpha_3": "PRT",
+        "description": "official, Latin"
+    },
+    "Galaico-Portuguese nation": {
+        "alpha_3": "PRT",
+        "description": "Celtic Gale and Roman-Celtic Portus Cale"
+    },
+    "Portucale from the Gallaeci tribe": {
+        "alpha_3": "PRT",
+        "description": "Celtic Gale and Roman-Celtic Portus Cale"
+    },
+    "Galician-Portuguese": {
+        "alpha_3": "PRT",
+        "description": "ethnic term derived from the original language"
+    },
+    "Ophiussa": {
+        "alpha_3": "PRT",
+        "description": "ancient Greek"
+    },
+    "Ophiusa": {
+        "alpha_3": "PRT",
+        "description": "ancient Greek"
+    },
+    "Portugalensis patrie": {
+        "alpha_3": "PRT",
+        "description": "null"
+    },
+    "Portugalensium patrie and Portugaliae": {
+        "alpha_3": "PRT",
+        "description": "by King Afonso I"
+    },
+    "Regno Portugalensium": {
+        "alpha_3": "PRT",
+        "description": "Latin, Medieval"
+    },
+    "Portugalis": {
+        "alpha_3": "PRT",
+        "description": "Latin, Medieval"
+    },
+    "Portugalliae et Algarbiae": {
+        "alpha_3": "PRT",
+        "description": "null"
+    },
+    "Portugalliae, Lusitaniae": {
+        "alpha_3": "PRT",
+        "description": "Latin"
+    },
+    "Purtugall": {
+        "alpha_3": "PRT",
+        "description": "Middle Ages"
+    },
+    "Burtughal": {
+        "alpha_3": "PRT",
+        "description": "Arabic"
+    },
+    "Portingall": {
+        "alpha_3": "PRT",
+        "description": "common classical English and other late medieval Germanic languages"
+    },
+    "Portingal": {
+        "alpha_3": "PRT",
+        "description": "common classical English and other late medieval Germanic languages"
+    },
+    "Ocidental Praia Lusitana": {
+        "alpha_3": "PRT",
+        "description": "Western Lusitanian Beach"
+    },
+    "Pátria Lusitana": {
+        "alpha_3": "PRT",
+        "description": "Lusitanian Fatherland"
+    },
+    "Luxitania": {
+        "alpha_3": "PRT",
+        "description": "Port of Grail in Esotericism and metaphysical literature"
+    },
+    "Portugraal": {
+        "alpha_3": "PRT",
+        "description": "Port of Grail in Esotericism and metaphysical literature"
+    },
+    "Puerto Rico": {
+        "alpha_3": "PRI",
+        "description": "common, English and Spanish"
+    },
+    "Estado Libre Asociado de Puerto Rico": {
+        "alpha_3": "PRI",
+        "description": "official, Spanish"
+    },
+    "Commonwealth of Puerto Rico": {
+        "alpha_3": "PRI",
+        "description": "official, English"
+    },
+    "Porto Rico": {
+        "alpha_3": "PRI",
+        "description": "archaic, English"
+    },
+    "Associated Free State of Puerto Rico": {
+        "alpha_3": "PRI",
+        "description": "non-official literal translation to English of the official Spanish name"
+    },
+    "Borikén, Borinquen, or Borinken": {
+        "alpha_3": "PRI",
+        "description": "former Taíno name also used colloquially and among nationalists"
+    },
+    "Congo": {
+        "alpha_3": "COG",
+        "description": "common"
+    },
+    "Congo Brazzaville": {
+        "alpha_3": "COG",
+        "description": "used in contrast to Congo Kinshasa"
+    },
+    "French Congo": {
+        "alpha_3": "COG",
+        "description": "former name during French colonization, 1880 to 1910, English"
+    },
+    "Romania": {
+        "alpha_3": "ROU",
+        "description": "common"
+    },
+    "România": {
+        "alpha_3": "ROU",
+        "description": "official, Romanian"
+    },
+    "Rumania or Roumania": {
+        "alpha_3": "ROU",
+        "description": "archaic, English"
+    },
+    "Kingdom of Romania": {
+        "alpha_3": "ROU",
+        "description": "name under monarchy, English"
+    },
+    "Regatul României": {
+        "alpha_3": "ROU",
+        "description": "name under monarchy, Romanian"
+    },
+    "Romanian People's Republic": {
+        "alpha_3": "ROU",
+        "description": "former Communist name, English"
+    },
+    "Republica Populara Romîna": {
+        "alpha_3": "ROU",
+        "description": "former Communist name, Romanian"
+    },
+    "Socialist Republic of Romania": {
+        "alpha_3": "ROU",
+        "description": "former Communist name, English"
+    },
+    "Republica Socialista România": {
+        "alpha_3": "ROU",
+        "description": "former Communist name, Romanian"
+    },
+    "Russian Federation": {
+        "alpha_3": "RUS",
+        "description": "alternative"
+    },
+    "Russia": {
+        "alpha_3": "RUS",
+        "description": "official and common name, ambiguous, English"
+    },
+    "Russland,": {
+        "alpha_3": "RUS",
+        "description": "German"
+    },
+    "Rossiya": {
+        "alpha_3": "RUS",
+        "description": "common, Russian"
+    },
+    "RF": {
+        "alpha_3": "RUS",
+        "description": "initialism"
+    },
+    "Russian Socialist Federative Soviet Republic": {
+        "alpha_3": "RUS",
+        "description": "former name, 1918–1936"
+    },
+    "Russian Soviet Federative Socialist Republic": {
+        "alpha_3": "RUS",
+        "description": "former name, 1936–1991"
+    },
+    "RSFSR": {
+        "alpha_3": "RUS",
+        "description": "former name initialism"
+    },
+    "Soviet Union": {
+        "alpha_3": "RUS",
+        "description": "former name"
+    },
+    "Union of Soviet Socialist Republics": {
+        "alpha_3": "RUS",
+        "description": "official former name"
+    },
+    "USSR": {
+        "alpha_3": "RUS",
+        "description": "former initialism"
+    },
+    "Soyuz Sovetskikh Sotsialisticheskikh Respublik": {
+        "alpha_3": "RUS",
+        "description": "former official name, transliterated"
+    },
+    "SSSR": {
+        "alpha_3": "RUS",
+        "description": "former initialism"
+    },
+    "SU": {
+        "alpha_3": "RUS",
+        "description": "common, but former initialism"
+    },
+    "Sovetskiy Soyuz": {
+        "alpha_3": "RUS",
+        "description": "common former name, transliterated"
+    },
+    "Rus": {
+        "alpha_3": "RUS",
+        "description": "poetic or obsolete name, ambiguous"
+    },
+    "Great Russia": {
+        "alpha_3": "RUS",
+        "description": "obsolete name"
+    },
+    "Rwanda": {
+        "alpha_3": "RWA",
+        "description": "common"
+    },
+    "Rwandese Republic": {
+        "alpha_3": "RWA",
+        "description": "official, English"
+    },
+    "Republic of Rwanda": {
+        "alpha_3": "RWA",
+        "description": "official, English, former"
+    },
+    "République du Rwanda": {
+        "alpha_3": "RWA",
+        "description": "official, French"
+    },
+    "Repubulika y'u Rwanda": {
+        "alpha_3": "RWA",
+        "description": "official, Kinyarwanda"
+    },
+    "Pays des mille collines": {
+        "alpha_3": "RWA",
+        "description": "poetic, French"
+    },
+    "Ruanda": {
+        "alpha_3": "RWA",
+        "description": "former colonial name"
+    },
+    "Saint Kitts and Nevis": {
+        "alpha_3": "KNA",
+        "description": "common"
+    },
+    "Federation of Saint Kitts and Nevis": {
+        "alpha_3": "KNA",
+        "description": "co-official, English"
+    },
+    "Federation of Saint Christopher and Nevis": {
+        "alpha_3": "KNA",
+        "description": "co-official, English"
+    },
+    "Saint Christopher and Nevis": {
+        "alpha_3": "KNA",
+        "description": "alternate short-form, English"
+    },
+    "Saint Christopher-Nevis-Anguilla": {
+        "alpha_3": "KNA",
+        "description": "former official, English"
+    },
+    "Saint Kitts-Nevis-Anguilla": {
+        "alpha_3": "KNA",
+        "description": "former common, English"
+    },
+    "Saint Kitts or Saint Christopher": {
+        "alpha_3": "KNA",
+        "description": "shorthand, English"
+    },
+    "Liamuiga and Oualie": {
+        "alpha_3": "KNA",
+        "description": "former indigenous names of the islands of Saint Kitts and Nevis, respectively"
+    },
+    "Saint Vincent and the Grenadines": {
+        "alpha_3": "VCT",
+        "description": "common"
+    },
+    "Hairouna": {
+        "alpha_3": "VCT",
+        "description": "former indigenous name, Carib"
+    },
+    "Saudi Arabia": {
+        "alpha_3": "SAU",
+        "description": "common, English"
+    },
+    "Kingdom of Saudi Arabia": {
+        "alpha_3": "SAU",
+        "description": "official, English"
+    },
+    "KSA": {
+        "alpha_3": "SAU",
+        "description": "initialism"
+    },
+    "Saudia": {
+        "alpha_3": "SAU",
+        "description": "former in English, common in Arabic"
+    },
+    "Al-Mamlaka al-Arabiyya as-Saudiyya": {
+        "alpha_3": "SAU",
+        "description": "official name in Arabic"
+    },
+    "Hijaz, Saudi regime": {
+        "alpha_3": "SAU",
+        "description": "used in Iran's news media"
+    },
+    "Arav haSa'udit": {
+        "alpha_3": "SAU",
+        "description": "name in Hebrew"
+    },
+    "Serbia": {
+        "alpha_3": "SRB",
+        "description": "common, English"
+    },
+    "Republic of Serbia": {
+        "alpha_3": "SRB",
+        "description": "official, English"
+    },
+    "Servia": {
+        "alpha_3": "SRB",
+        "description": "archaic, English"
+    },
+    "Srbija": {
+        "alpha_3": "SRB",
+        "description": "common, Serbian"
+    },
+    "Republika Srbija": {
+        "alpha_3": "SRB",
+        "description": "official, Serbian"
+    },
+    "Serbia and Montenegro": {
+        "alpha_3": "SRB",
+        "description": "former common, English"
+    },
+    "Yugoslavia": {
+        "alpha_3": "SRB",
+        "description": "former common, English"
+    },
+    "Raška": {
+        "alpha_3": "SRB",
+        "description": "alternative name in medieval times"
+    },
+    "Serboslavia": {
+        "alpha_3": "SRB",
+        "description": "derogatory, used by the rule of Slobodan Miloševic"
+    },
+    "Singapore": {
+        "alpha_3": "SGP",
+        "description": "common, English"
+    },
+    "Republic of Singapore": {
+        "alpha_3": "SGP",
+        "description": "official, English"
+    },
+    "Singapura": {
+        "alpha_3": "SGP",
+        "description": "common, Malay"
+    },
+    "Sinhapura": {
+        "alpha_3": "SGP",
+        "description": "Sanskrit, i.e., Land of Lions"
+    },
+    "Xinjiapo": {
+        "alpha_3": "SGP",
+        "description": "common, Chinese"
+    },
+    "Cinjkappur": {
+        "alpha_3": "SGP",
+        "description": "common, Tamil"
+    },
+    "Pulau Ujong": {
+        "alpha_3": "SGP",
+        "description": "historical, ancient"
+    },
+    "Shonan-to": {
+        "alpha_3": "SGP",
+        "description": "former, Japanese occupation"
+    },
+    "little red dot": {
+        "alpha_3": "SGP",
+        "description": "colloquial; originally derogatory"
+    },
+    "Slovakia": {
+        "alpha_3": "SVK",
+        "description": "common, English"
+    },
+    "Slovak Republic": {
+        "alpha_3": "SVK",
+        "description": "alternative"
+    },
+    "Slovensko": {
+        "alpha_3": "SVK",
+        "description": "common, Slovak"
+    },
+    "Slovenská republika": {
+        "alpha_3": "SVK",
+        "description": "official, Slovak"
+    },
+    "SR": {
+        "alpha_3": "SVK",
+        "description": "English and Slovak initialism"
+    },
+    "Slovak Socialist Republic": {
+        "alpha_3": "SVK",
+        "description": "former name, 1969 to 1990"
+    },
+    "Slovenská socialistická republika": {
+        "alpha_3": "SVK",
+        "description": "former name, Slovak"
+    },
+    "SSR": {
+        "alpha_3": "SVK",
+        "description": "English and Slovak initialism"
+    },
+    "Slovenia": {
+        "alpha_3": "SVN",
+        "description": "common, English"
+    },
+    "Republic of Slovenia": {
+        "alpha_3": "SVN",
+        "description": "official, English"
+    },
+    "Slovenija": {
+        "alpha_3": "SVN",
+        "description": "common, Slovenian"
+    },
+    "Republika Slovenija": {
+        "alpha_3": "SVN",
+        "description": "official, Slovenian"
+    },
+    "RS": {
+        "alpha_3": "SVN",
+        "description": "English and Slovenian initialism"
+    },
+    "South Africa": {
+        "alpha_3": "ZAF",
+        "description": "common, English"
+    },
+    "Azania, Mzansi": {
+        "alpha_3": "ZAF",
+        "description": "Xhosa, for South"
+    },
+    "Suid-Afrika": {
+        "alpha_3": "ZAF",
+        "description": "official, Afrikaans"
+    },
+    "Zuid-Afrika": {
+        "alpha_3": "ZAF",
+        "description": "former official, Dutch"
+    },
+    "Union of South Africa": {
+        "alpha_3": "ZAF",
+        "description": "Colonial, pre-1961"
+    },
+    "Spain": {
+        "alpha_3": "ESP",
+        "description": "common, English"
+    },
+    "España": {
+        "alpha_3": "ESP",
+        "description": "common, Spanish"
+    },
+    "Kingdom of Spain": {
+        "alpha_3": "ESP",
+        "description": "official, English"
+    },
+    "Reino de España": {
+        "alpha_3": "ESP",
+        "description": "official, Spanish"
+    },
+    "Espanya": {
+        "alpha_3": "ESP",
+        "description": "common, Catalan"
+    },
+    "Hispania": {
+        "alpha_3": "ESP",
+        "description": "Latin"
+    },
+    "Espainia": {
+        "alpha_3": "ESP",
+        "description": "common, Euskera"
+    },
+    "Spanish State": {
+        "alpha_3": "ESP",
+        "description": "former name"
+    },
+    "La piel de toro": {
+        "alpha_3": "ESP",
+        "description": "Spanish"
+    },
+    "La pell de brau": {
+        "alpha_3": "ESP",
+        "description": "Catalan"
+    },
+    "Las Batuecas": {
+        "alpha_3": "ESP",
+        "description": "derogatory name used in the works of Mariano José de Larra"
+    },
+    "Sepharad": {
+        "alpha_3": "ESP",
+        "description": "common, Hebrew"
+    },
+    "Sri Lanka": {
+        "alpha_3": "LKA",
+        "description": "common, Sanskrit, English"
+    },
+    "Ceylon": {
+        "alpha_3": "LKA",
+        "description": "former, English"
+    },
+    "Democratic Socialist Republic of Sri Lanka": {
+        "alpha_3": "LKA",
+        "description": "official, English"
+    },
+    "Heladiva": {
+        "alpha_3": "LKA",
+        "description": "Land of Sinhalese former, Sinhala"
+    },
+    "Ratnadeepa": {
+        "alpha_3": "LKA",
+        "description": "Island of Gems ormer, Sinhala"
+    },
+    "elangai": {
+        "alpha_3": "LKA",
+        "description": "common, Tamil"
+    },
+    "Taprobane": {
+        "alpha_3": "LKA",
+        "description": "one of the medieval names of Sri Lanka"
+    },
+    "Sudan": {
+        "alpha_3": "SDN",
+        "description": "common"
+    },
+    "Republic of the Sudan": {
+        "alpha_3": "SDN",
+        "description": "official, English"
+    },
+    "The Sudan": {
+        "alpha_3": "SDN",
+        "description": "alternate English"
+    },
+    "Anglo-Egyptian Sudan": {
+        "alpha_3": "SDN",
+        "description": "colonial name, English"
+    },
+    "Mahdist State": {
+        "alpha_3": "SDN",
+        "description": "former English unofficial"
+    },
+    "Nubia": {
+        "alpha_3": "SDN",
+        "description": "ancient name, also poetic"
+    },
+    "Suriname": {
+        "alpha_3": "SUR",
+        "description": "common, English"
+    },
+    "Dutch Guiana": {
+        "alpha_3": "SUR",
+        "description": "former, English"
+    },
+    "Netherlands Guiana": {
+        "alpha_3": "SUR",
+        "description": "former official, English"
+    },
+    "Republic of Suriname": {
+        "alpha_3": "SUR",
+        "description": "official, English"
+    },
+    "Republiek Suriname": {
+        "alpha_3": "SUR",
+        "description": "official, Dutch"
+    },
+    "Surinam": {
+        "alpha_3": "SUR",
+        "description": "English name until 1978"
+    },
+    "Sweden": {
+        "alpha_3": "SWE",
+        "description": "common, English"
+    },
+    "Sverige": {
+        "alpha_3": "SWE",
+        "description": "common, Swedish, Danish, Norwegian"
+    },
+    "Konungariket Sverige": {
+        "alpha_3": "SWE",
+        "description": "official, Swedish"
+    },
+    "Kingdom of Sweden": {
+        "alpha_3": "SWE",
+        "description": "official, English"
+    },
+    "Svea Rike": {
+        "alpha_3": "SWE",
+        "description": "possibly former/poetical, Swedish"
+    },
+    "Svitjod": {
+        "alpha_3": "SWE",
+        "description": "Old Norse"
+    },
+    "Switzerland": {
+        "alpha_3": "CHE",
+        "description": "common, English"
+    },
+    "Swiss Confederation": {
+        "alpha_3": "CHE",
+        "description": "official, English"
+    },
+    "Schweiz": {
+        "alpha_3": "CHE",
+        "description": "common, German, Danish, Swedish"
+    },
+    "Schweizerische Eidgenossenschaft": {
+        "alpha_3": "CHE",
+        "description": "official, German"
+    },
+    "Suisse": {
+        "alpha_3": "CHE",
+        "description": "common, French"
+    },
+    "Confédération suisse": {
+        "alpha_3": "CHE",
+        "description": "official, French"
+    },
+    "Svizzera": {
+        "alpha_3": "CHE",
+        "description": "common, Italian"
+    },
+    "Confederazione Svizzera": {
+        "alpha_3": "CHE",
+        "description": "official, Italian"
+    },
+    "Svizra": {
+        "alpha_3": "CHE",
+        "description": "common, Romansh"
+    },
+    "Confederaziun Svizra": {
+        "alpha_3": "CHE",
+        "description": "official, Romansh"
+    },
+    "Confoederatio Helvetica, Helvetia": {
+        "alpha_3": "CHE",
+        "description": "Latin, sometimes used officially"
+    },
+    "CH": {
+        "alpha_3": "CHE",
+        "description": "initialism"
+    },
+    "Taiwan": {
+        "alpha_3": "TWN",
+        "description": "common, English"
+    },
+    "Republic of China": {
+        "alpha_3": "TWN",
+        "description": "official, English"
+    },
+    "ROC": {
+        "alpha_3": "TWN",
+        "description": "initialism"
+    },
+    "Chinese Taipei": {
+        "alpha_3": "TWN",
+        "description": "international designation"
+    },
+    "Zhonghuá Táibei": {
+        "alpha_3": "TWN",
+        "description": "international designation, pinyin"
+    },
+    "Separate Customs Territory of Taiwan, Penghu, Kinmen and Matsu": {
+        "alpha_3": "TWN",
+        "description": "international designation"
+    },
+    "Taipei, China": {
+        "alpha_3": "TWN",
+        "description": "designation used by China to imply that Taiwan is part of China"
+    },
+    "Taiwan, Province of China": {
+        "alpha_3": "TWN",
+        "description": "UN designation"
+    },
+    "Nationalist China": {
+        "alpha_3": "TWN",
+        "description": "obsolete, but still mainly used by Western countries"
+    },
+    "Free China": {
+        "alpha_3": "TWN",
+        "description": "obsolete, pro-Nationalist"
+    },
+    "Formosa": {
+        "alpha_3": "TWN",
+        "description": "former, English"
+    },
+    "Cathay": {
+        "alpha_3": "TWN",
+        "description": "obsolete, now mainly used poetically"
+    },
+    "Qing dynasty": {
+        "alpha_3": "TWN",
+        "description": "former name."
+    },
+    "Tanzania": {
+        "alpha_3": "TZA",
+        "description": "common, English"
+    },
+    "United Republic of Tanganyika and Zanzibar": {
+        "alpha_3": "TZA",
+        "description": "former, English"
+    },
+    "United Republic of Tanzania": {
+        "alpha_3": "TZA",
+        "description": "official, English"
+    },
+    "Deutsch-Ostafrika": {
+        "alpha_3": "TZA",
+        "description": "German East Africa, colonial name until 1918"
+    },
+    "Ruanda and Urundi": {
+        "alpha_3": "TZA",
+        "description": "German East Africa, colonial name until 1918"
+    },
+    "Thailand": {
+        "alpha_3": "THA",
+        "description": "common, English"
+    },
+    "Siam": {
+        "alpha_3": "THA",
+        "description": "former, English"
+    },
+    "Kingdom of Thailand": {
+        "alpha_3": "THA",
+        "description": "official, English"
+    },
+    "Transnistria": {
+        "alpha_3": "null",
+        "description": "null"
+    },
+    "Pridnestrovie": {
+        "alpha_3": "null",
+        "description": "official shortform name"
+    },
+    "Pridnestrovskaia Moldavskaia Respublica": {
+        "alpha_3": "null",
+        "description": "official, longform"
+    },
+    "Trinidad and Tobago": {
+        "alpha_3": "TTO",
+        "description": "common, English"
+    },
+    "Iere": {
+        "alpha_3": "TTO",
+        "description": "poetic, Land of the Hummingbird, believed to be derived from Arawak"
+    },
+    "Republic of Trinidad and Tobago": {
+        "alpha_3": "TTO",
+        "description": "official, English"
+    },
+    "Trinbago": {
+        "alpha_3": "TTO",
+        "description": "informal, English"
+    },
+    "Tunisia": {
+        "alpha_3": "TUN",
+        "description": "official shortform name"
+    },
+    "Republic of Tunisia": {
+        "alpha_3": "TUN",
+        "description": "official, longform"
+    },
+    "Turkey": {
+        "alpha_3": "TUR",
+        "description": "common"
+    },
+    "Republic of Turkey": {
+        "alpha_3": "TUR",
+        "description": "official, English"
+    },
+    "Türkiye Cumhuriyeti": {
+        "alpha_3": "TUR",
+        "description": "official, Turkish"
+    },
+    "Asia Minor": {
+        "alpha_3": "TUR",
+        "description": "geographical, English"
+    },
+    "Anatolia": {
+        "alpha_3": "TUR",
+        "description": "geographical, English"
+    },
+    "Ottoman Empire": {
+        "alpha_3": "TUR",
+        "description": "former, English"
+    },
+    "Turkish Empire": {
+        "alpha_3": "TUR",
+        "description": "former unofficial, English"
+    },
+    "Porte or Sublime Porte": {
+        "alpha_3": "TUR",
+        "description": "English descriptions of the former Ottoman state"
+    },
+    "Tuvalu": {
+        "alpha_3": "TUV",
+        "description": "English and Tuvaluan"
+    },
+    "Ellice Islands": {
+        "alpha_3": "TUV",
+        "description": "colonial name, English"
+    },
+    "Ukraine": {
+        "alpha_3": "UKR",
+        "description": "official"
+    },
+    "UA": {
+        "alpha_3": "UKR",
+        "description": "initialism"
+    },
+    "UKR": {
+        "alpha_3": "UKR",
+        "description": "initialism"
+    },
+    "Kievan Rus": {
+        "alpha_3": "UKR",
+        "description": "Former name for of East Slavic tribes in Europe from the late 9th to the mid-13th century"
+    },
+    "Kingdom of Galicia–Volhynia": {
+        "alpha_3": "UKR",
+        "description": "historic name of Western Ukraine"
+    },
+    "Kingdom of Ruthenia": {
+        "alpha_3": "UKR",
+        "description": "historic name of Western Ukraine"
+    },
+    "Zaporizhian Host": {
+        "alpha_3": "UKR",
+        "description": "is an adopted name in historiography for the Ukrainian Cossack state on the territory of Dnieper Ukraine and Siveria that existed between 1649 and 1764"
+    },
+    "United Arab Emirates": {
+        "alpha_3": "ARE",
+        "description": "English"
+    },
+    "Trucial States": {
+        "alpha_3": "ARE",
+        "description": "English, prior to 1971"
+    },
+    "Al Emirat al Arabbiya al Muttahida": {
+        "alpha_3": "ARE",
+        "description": "official, Arabic"
+    },
+    "UAE": {
+        "alpha_3": "ARE",
+        "description": "English initialism"
+    },
+    "U.A.E.": {
+        "alpha_3": "ARE",
+        "description": "English initialism"
+    },
+    "The Emirates": {
+        "alpha_3": "ARE",
+        "description": "colloquial, English"
+    },
+    "United Kingdom": {
+        "alpha_3": "GBR",
+        "description": "short form"
+    },
+    "United Kingdom of Great Britain and Northern Ireland": {
+        "alpha_3": "GBR",
+        "description": "official, English"
+    },
+    "Britain": {
+        "alpha_3": "GBR",
+        "description": "alternative"
+    },
+    "Great Britain": {
+        "alpha_3": "GBR",
+        "description": "alternative"
+    },
+    "UK": {
+        "alpha_3": "GBR",
+        "description": "initialism"
+    },
+    "U.K.": {
+        "alpha_3": "GBR",
+        "description": "initialism"
+    },
+    "Albion": {
+        "alpha_3": "GBR",
+        "description": "poetic, Latin"
+    },
+    "Britannia": {
+        "alpha_3": "GBR",
+        "description": "poetic, Latin"
+    },
+    "Perfidious Albion": {
+        "alpha_3": "GBR",
+        "description": "if said by an old enemy, mainly humorous today"
+    },
+    "Anglia": {
+        "alpha_3": "GBR",
+        "description": "poetic, Latin, refers specifically to England"
+    },
+    "Alba": {
+        "alpha_3": "GBR",
+        "description": "Scottish, Gaelic-refers specifically to Scotland"
+    },
+    "Caledonia": {
+        "alpha_3": "GBR",
+        "description": "poetic, Latin-refers specifically to Scotland"
+    },
+    "Cymru": {
+        "alpha_3": "GBR",
+        "description": "official, Welsh-refers specifically to Wales"
+    },
+    "Cambria": {
+        "alpha_3": "GBR",
+        "description": "poetic, Latin-refers to Wales"
+    },
+    "Ulster": {
+        "alpha_3": "GBR",
+        "description": "colloquial, refers specifically to Northern Ireland"
+    },
+    "United States": {
+        "alpha_3": "USA",
+        "description": "alternative"
+    },
+    "United States of America": {
+        "alpha_3": "USA",
+        "description": "official"
+    },
+    "America": {
+        "alpha_3": "USA",
+        "description": "alternative"
+    },
+    "the States": {
+        "alpha_3": "USA",
+        "description": "alternative"
+    },
+    "US": {
+        "alpha_3": "USA",
+        "description": "initialism"
+    },
+    "U.S.": {
+        "alpha_3": "USA",
+        "description": "initialism"
+    },
+    "USA": {
+        "alpha_3": "USA",
+        "description": "initialism"
+    },
+    "Usa": {
+        "alpha_3": "USA",
+        "description": "initialism"
+    },
+    "U.S.A": {
+        "alpha_3": "USA",
+        "description": "initialism"
+    },
+    "Columbia": {
+        "alpha_3": "USA",
+        "description": "Latin, poetic"
+    },
+    "Freedonia": {
+        "alpha_3": "USA",
+        "description": "names proposed after American Revolutionary War"
+    },
+    "Appalachia": {
+        "alpha_3": "USA",
+        "description": "names proposed after American Revolutionary War"
+    },
+    "Alleghany": {
+        "alpha_3": "USA",
+        "description": "names proposed after American Revolutionary War"
+    },
+    "Usonia": {
+        "alpha_3": "USA",
+        "description": "used by James Duff Law and popularized by Frank Lloyd Wright"
+    },
+    "Usono": {
+        "alpha_3": "USA",
+        "description": "Esperanto; comes from Usona in English"
+    },
+    "Vanuatu": {
+        "alpha_3": "VUT",
+        "description": "common"
+    },
+    "New Hebrides": {
+        "alpha_3": "VUT",
+        "description": "former name under British and French condominium rule from 1906 to 1980"
+    },
+    "Niuhebridis": {
+        "alpha_3": "VUT",
+        "description": "Bislama"
+    },
+    "Nouvelles Hebrides": {
+        "alpha_3": "VUT",
+        "description": "former official name in French"
+    },
+    "République de Vanuatu": {
+        "alpha_3": "VUT",
+        "description": "French"
+    },
+    "Ripablik blong Vanuatu": {
+        "alpha_3": "VUT",
+        "description": "Bislama"
+    },
+    "Vanuatri": {
+        "alpha_3": "VUT",
+        "description": "jocular name used in humour"
+    },
+    "Vietnam": {
+        "alpha_3": "VNM",
+        "description": "common"
+    },
+    "An Nam": {
+        "alpha_3": "VNM",
+        "description": "former name in other foreign languages"
+    },
+    "Champa": {
+        "alpha_3": "VNM",
+        "description": "historical kingdom"
+    },
+    "Giao Chi": {
+        "alpha_3": "VNM",
+        "description": "former Chinese province or vassal kingdom"
+    },
+    "French Indochina": {
+        "alpha_3": "VNM",
+        "description": "former name under French colonization when united with Laos and Cambodia, English"
+    },
+    "Linh Nam": {
+        "alpha_3": "VNM",
+        "description": "poetic name"
+    },
+    "Socialist Republic of Vietnam": {
+        "alpha_3": "VNM",
+        "description": "official, English"
+    },
+    "North Vietnam": {
+        "alpha_3": "VNM",
+        "description": "Democratic Republic of Vietnam from 1954 to 1975"
+    },
+    "South Vietnam": {
+        "alpha_3": "VNM",
+        "description": "Republic of Vietnam from 1954 to 1975"
+    },
+    "Cong hòa Xã hoi Chu nghia Viet Nam": {
+        "alpha_3": "VNM",
+        "description": "official, Vietnamese"
+    },
+    "Viet Nam": {
+        "alpha_3": "VNM",
+        "description": "alternative"
+    },
+    "SRV": {
+        "alpha_3": "VNM",
+        "description": "English initialism"
+    },
+    "S.R.V.": {
+        "alpha_3": "VNM",
+        "description": "English initialism"
+    },
+    "VN": {
+        "alpha_3": "VNM",
+        "description": "English initialism"
+    },
+    "V.N.": {
+        "alpha_3": "VNM",
+        "description": "English initialism"
+    },
+    "Zambia": {
+        "alpha_3": "ZMB",
+        "description": "common"
+    },
+    "Northern Rhodesia": {
+        "alpha_3": "ZMB",
+        "description": "former, English"
+    },
+    "Republic of Zambia": {
+        "alpha_3": "ZMB",
+        "description": "official, English"
+    },
+    "Zimbabwe": {
+        "alpha_3": "ZWE",
+        "description": "common"
+    },
+    "Rhodesia or Republic of Rhodesia": {
+        "alpha_3": "ZWE",
+        "description": "former names, English"
+    },
+    "Republic of Zimbabwe": {
+        "alpha_3": "ZWE",
+        "description": "official, English"
+    },
+    "Southern Rhodesia": {
+        "alpha_3": "ZWE",
+        "description": "former, English"
+    },
+    "Bolivia, Plurinat. State of": {
+        "alpha_3": "BOL",
+        "description": "alternative"
+    },
+    "Congo, Dem. Rep. of the": {
+        "alpha_3": "COD",
+        "description": "alternative"
+    },
+    "Congo, Dem. Rep.": {
+        "alpha_3": "COD",
+        "description": "alternative"
+    },
+    "The Gambia": {
+        "alpha_3": "GMB",
+        "description": "alternative"
+    },
+    "Gambia, The": {
+        "alpha_3": "GMB",
+        "description": "alternative"
+    },
+    "Iran, Islamic Republic of": {
+        "alpha_3": "IRN",
+        "description": "alternative"
+    },
+    "Iran, Islamic Rep.": {
+        "alpha_3": "IRN",
+        "description": "alternative"
+    },
+    "Moldova, Republic of": {
+        "alpha_3": "MDA",
+        "description": "alternative"
+    },
+    "Syrian Arab Republic": {
+        "alpha_3": "SYR",
+        "description": "alternative"
+    },
+    "Tanzania, United Rep. of": {
+        "alpha_3": "TZA",
+        "description": "alternative"
+    },
+    "Venezuela, Boliv. Rep. of": {
+        "alpha_3": "VEN",
+        "description": "alternative"
+    },
+    "Venezuela, RB": {
+        "alpha_3": "VEN",
+        "description": "alternative"
+    },
+    "Korea, Dem. People's Republic of": {
+        "alpha_3": "PRK",
+        "description": "alternative"
+    },
+    "Korea, Dem. People's Rep.": {
+        "alpha_3": "PRK",
+        "description": "alternative"
+    },
+    "Korea, Rep.": {
+        "alpha_3": "KOR",
+        "description": "alternative"
+    },
+    "Korea, Republic of": {
+        "alpha_3": "KOR",
+        "description": "alternative"
+    },
+    "Lao People's Dem. Rep.": {
+        "alpha_3": "LAO",
+        "description": "alternative"
+    },
+    "Lao PDR": {
+        "alpha_3": "LAO",
+        "description": "alternative"
+    },
+    "Egypt, Arab Rep.": {
+        "alpha_3": "EGY",
+        "description": "alternative"
+    },
+    "Germany (until 1990 former territory of the FRG)": {
+        "alpha_3": "DEU",
+        "description": "alternative"
+    },
+    "Türkiye": {
+        "alpha_3": "TUR",
+        "description": "alternative"
+    },
+    "Turkiye": {
+        "alpha_3": "TUR",
+        "description": "alternative"
+    },
+    "Yemen, Rep.": {
+        "alpha_3": "YEM",
+        "description": "alternative"
+    },
+    "Bahamas, The": {
+        "alpha_3": "BHS",
+        "description": "alternative"
+    },
+    "Congo, Rep.": {
+        "alpha_3": "COG",
+        "description": "alternative"
+    },
+    "Cote d'Ivoire": {
+        "alpha_3": "CIV",
+        "description": "alternative"
+    },
+    "Côte d’Ivoire": {
+        "alpha_3": "CIV",
+        "description": "alternative"
+    },
+    "Puerto Rico (USA)": {
+        "alpha_3": "PRI",
+        "description": "alternative"
+    },
+    "Macedonia": {
+        "alpha_3": "MKD",
+        "description": "alternative"
+    },
+    "Taiwan, China": {
+        "alpha_3": "TWN",
+        "description": "alternative"
+    }
+}
